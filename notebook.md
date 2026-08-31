@@ -27,6 +27,16 @@
   <img width="1582" height="148" alt="image" src="https://github.com/user-attachments/assets/90240d6e-27f4-4ec7-8b9d-53036f52ad64" />
 </details>
 
+<details>
+  <summary>Micro-Computer</summary>
+     Is a small but powerful computer system
+</details>
+
+<details>
+  <summary>Breakout Board</summary>
+     allows a micro-computer to be easily connected to various electronic input and output devices. When a computer is connected to a series of systems and devices in the real world, and a computer program is used to control the various devices. It is often known as a Computer Control system.
+</details>
+
 ## Important Blocks
 <details>
   <summary>broadcast</summary>
