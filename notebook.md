@@ -51,6 +51,7 @@ Abstraction is the most fundamental idea in computer science, but it’s hard to
 
 <img width="1582" height="176" alt="image" src="https://github.com/user-attachments/assets/31be6d56-1007-4d73-a8d2-130491235483" />
 
+<img width="1583" height="357" alt="image" src="https://github.com/user-attachments/assets/5a020c82-d091-4ff9-bea1-1897f545921d" />
 
 
 
