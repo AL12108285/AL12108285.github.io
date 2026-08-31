@@ -49,6 +49,8 @@ The biggest mistake in pair programming is for the navigator to tune out and let
 
 Abstraction is the most fundamental idea in computer science, but it’s hard to define until you’ve seen some examples. The most basic kind of abstraction is to give a name to something in a program. For example, here we gave the name who to the idea “pick an item at random from this list of people (or cats).” This is called procedural abstraction because we use a procedure (a block) to name the idea. This makes your code readable. You’ll see other kinds of abstraction later.
 
+<img width="1582" height="176" alt="image" src="https://github.com/user-attachments/assets/31be6d56-1007-4d73-a8d2-130491235483" />
+
 
 
 
