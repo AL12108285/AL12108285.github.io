@@ -17,12 +17,13 @@
 
 <details>
   <summary>Procedural abstraction</summary>
-        <img width="1582" height="148" alt="image" src="https://github.com/user-attachments/assets/90240d6e-27f4-4ec7-8b9d-53036f52ad64" />
+     Using a procedure to name an idea, ex. the procedure "who" to the idea of picking an item from the list of people or cats.  
 </details>
 
 <details>
   <summary>Expression</summary>
   An expression is a either a constant value (such as "4" or "winter") or a call to a reporter block including it's inputs.
+  <img width="1582" height="148" alt="image" src="https://github.com/user-attachments/assets/90240d6e-27f4-4ec7-8b9d-53036f52ad64" />
 </details>
 
 ## Important Blocks
