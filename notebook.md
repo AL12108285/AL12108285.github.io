@@ -20,7 +20,10 @@
     Using a procedure to name an idea, ex. the procedure "who" to the idea of picking an item from the list of people or cats.
 </details>
 
-
+<details>
+  <summary>Expression</summary>
+  An expression is a either a constant value
+</details>
 ## Important Blocks
 <details>
   <summary>broadcast</summary>
