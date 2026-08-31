@@ -17,7 +17,7 @@
 
 <details>
   <summary>Procedural abstraction</summary>
-    <img width="1582" height="148" alt="image" src="https://github.com/user-attachments/assets/90240d6e-27f4-4ec7-8b9d-53036f52ad64" />
+        <img width="1582" height="148" alt="image" src="https://github.com/user-attachments/assets/90240d6e-27f4-4ec7-8b9d-53036f52ad64" />
 </details>
 
 <details>
