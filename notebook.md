@@ -1,10 +1,39 @@
 ## Table of Contents
-
+- [Vocab](#vocab)
 - [BJC Labs](#bjc-labs)
   -[Lab 1 Click Alonzo](lab-1-click-alonzo)
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
   - [Headings](#headings)
   - [Text Formatting](#text-formatting)
+
+## Vocab
+<details>
+  <summary>Abstraction</summary>
+    The most fundamental idea in computer science, giving a name to something in a program to make it more readable.
+</details>
+
+<details>
+  <summary>Procedural abstraction</summary>
+    Using a procedure to name an idea, ex. the procedure "who" to the idea of picking an item from the list of people or cats.
+</details>
+
+
+## Important Blocks
+<details>
+  <summary>broadcast</summary>
+     Sends a message to all the sprites. To set the message, click the down arrow and select "new..."
+</details>
+
+<details>
+  <summary>when I receive</summary>
+     (Click help on the block to learned more about it in order to complete this definition)
+</details>
+
+## On the AP Exam
+image.png
+  - Many languages (and the AP CS Principles Exam) use return instead of report as the name of the command to give a value back at the end of a function call.
+  - The exam uses "value of a procedure" to mean the value the procedure returns when called. For example, "the value of double(5)" means 10.
+
 
 ## BJC Labs
 ### Lab 1 Click Alonzo
@@ -239,4 +268,5 @@ Collapsible = Hide/Show detail
 
 Keep it simple, consistent, and clear.
 ---------------------------------------------------------------------------------
+
 
