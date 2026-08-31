@@ -43,6 +43,12 @@ image.png
 If you're doing this in class, you should be working with a partner. It's not just for students; professional programmers work with partners too. If each of you is in front of a computer, one of you should keep Snap! open, and the other should keep this lab page open. If you are sharing a computer, use two browser tabs. 
 Orange boxes contain the ideas you should still remember three years from now. Blocks that look like this can be used to detect an event such as clicking on the sprite, pressing a key, or clicking the green flag button. They tell the script to start that event that occurs. Because these blocks can sit only on top of a script (as a way to start the script), Snap! Programmers call them “hat blocks” Using events to control a program is called event-driven programming. Not every script needs a hot block; you can also run a script by clicking on it.
 
+### Lab 2 Gossip
+How not to do pair programming:
+The biggest mistake in pair programming is for the navigator to tune out and let the driver do all the work. The navigator has to be paying attention; otherwise you’re just taking turns doing the entire work instead of making use of the benefits of having two people.
+
+Abstraction is the most fundamental idea in computer science, but it’s hard to define until you’ve seen some examples. The most basic kind of abstraction is to give a name to something in a program. For example, here we gave the name who to the idea “pick an item at random from this list of people (or cats).” This is called procedural abstraction because we use a procedure (a block) to name the idea. This makes your code readable. You’ll see other kinds of abstraction later.
+
 
 
 
