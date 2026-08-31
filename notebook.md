@@ -1,5 +1,7 @@
 ## Table of Contents
 - [Vocab](#vocab)
+- [Important Blocks](#important-blocks)
+- [On the AP Exam](#on-the-ap-exam)
 - [BJC Labs](#bjc-labs)
   -[Lab 1 Click Alonzo](lab-1-click-alonzo)
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
