@@ -6,7 +6,6 @@
 - [BJC Labs](#bjc-labs)
   - [Lab 1 Click Alonzo](#lab-1-click-alonzo)
   - [Lab 2 Gossip](#lab-2-gossip)
-  - [Lab 4 Protecting Your Privacy](#lab-4-protecting-your-privacy)
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
   - [Headings](#headings)
   - [Text Formatting](#text-formatting)
@@ -78,13 +77,6 @@ Abstraction is the most fundamental idea in computer science, but it’s hard to
 <img width="1583" height="357" alt="image" src="https://github.com/user-attachments/assets/5a020c82-d091-4ff9-bea1-1897f545921d" />
 
 <img width="1584" height="282" alt="image" src="https://github.com/user-attachments/assets/3a785af0-4d63-47cc-8591-e99db5cbdd63" />
-
-### Lab 4 Protecting Your Privacy
-Think of some website on which you have an account. It can be one of the huge ones, such as Google, Facebook, or Amazon, or it can be a site associated with a store, a TV show, or a game.
-
-  - How do you connect to that site when you're using a computer?
-  
-  - How do you connect to the site using your cell phone?
 
 
 
