@@ -80,9 +80,10 @@ Abstraction is the most fundamental idea in computer science, but it’s hard to
 <img width="1584" height="282" alt="image" src="https://github.com/user-attachments/assets/3a785af0-4d63-47cc-8591-e99db5cbdd63" />
 
 ### Lab 4 Protecting Your Privacy
-####hhh
+Think of some website on which you have an account. It can be one of the huge ones, such as Google, Facebook, or Amazon, or it can be a site associated with a store, a TV show, or a game.
+  How do you connect to that site when you're using a computer?
 
-
+  How do you connect to the site using your cell phone?
 
 
 
