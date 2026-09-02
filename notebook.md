@@ -6,6 +6,7 @@
 - [BJC Labs](#bjc-labs)
   - [Lab 1 Click Alonzo](#lab-1-click-alonzo)
   - [Lab 2 Gossip](#lab-2-gossip)
+  - [Lab 4 Protecting Your Privacy](#lab-4-protecting-your-privacy)
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
   - [Headings](#headings)
   - [Text Formatting](#text-formatting)
@@ -78,6 +79,7 @@ Abstraction is the most fundamental idea in computer science, but it’s hard to
 
 <img width="1584" height="282" alt="image" src="https://github.com/user-attachments/assets/3a785af0-4d63-47cc-8591-e99db5cbdd63" />
 
+## Lab 4 Protecting Your Privacy
 
 
 
