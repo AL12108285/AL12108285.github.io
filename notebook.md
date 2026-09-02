@@ -37,6 +37,10 @@
      allows a micro-computer to be easily connected to various electronic input and output devices. When a computer is connected to a series of systems and devices in the real world, and a computer program is used to control the various devices. It is often known as a Computer Control system.
 </details>
 
+<details>
+  <summary>Personally Identifiable Imformation</summary>
+    It includes details that could reveal who you are—such as your Social Security number, age, race, phone number(s), medical information, financial information, or biometric data like a thumbprint or face scan.
+</details>
 ## Important Blocks
 <details>
   <summary>broadcast</summary>
