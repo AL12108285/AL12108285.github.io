@@ -42,6 +42,11 @@
     It includes details that could reveal who you are—such as your Social Security number, age, race, phone number(s), medical information, financial information, or biometric data like a thumbprint or face scan.
 </details>
 
+<details>
+  <summary>Sound Sensor</summary>
+     a sensor that outputs an analog signal based on the amount of ambient sound present. It is programmed using a value between 0 and 100, where 0 is the softest sound that can be detected and 100 is the loudest.
+</details>
+
 ## Important Blocks
 <details>
   <summary>broadcast</summary>
