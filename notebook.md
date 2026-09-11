@@ -65,6 +65,13 @@
      - Ex. <img width="72" height="20" alt="image" src="https://github.com/user-attachments/assets/e778f9fb-fbf2-4431-9361-bf06b5408e32" />
 </details>
 
+<details>
+  <summary>Iteration</summary>
+     Repeating a set of instructions in an algorithm.
+     - Ex. 
+</details>
+
+
 ## Important Blocks
 <details>
   <summary>broadcast</summary>
