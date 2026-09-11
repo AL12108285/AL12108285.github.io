@@ -56,7 +56,8 @@
 <details>
   <summary>Sequencing</summary>
      Statements execute in the order they appear unless the flow of control changes.
-     Ex. 
+     Ex. <img width="286" height="25" alt="image" src="https://github.com/user-attachments/assets/c7070281-da03-4cb6-820a-f8040e5c0274" />
+
 </details>
 
 
