@@ -50,7 +50,7 @@
 <details>
   <summary>Algorithm</summary>
      (A finite set of instructions used to accomplish a task.)
-    - Ex. The instructions that move a robot to its final position.
+     - Ex. The instructions that move a robot to its final position.
 </details>
 
 ## Important Blocks
