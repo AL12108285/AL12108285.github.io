@@ -59,6 +59,11 @@
      Ex. <img width="286" height="25" alt="image" src="https://github.com/user-attachments/assets/c7070281-da03-4cb6-820a-f8040e5c0274" />
 </details>
 
+<details>
+  <summary>Selection</summary>
+     Uses a condition to determine which part of an algorithm is executed.
+     - Ex. <img width="72" height="20" alt="image" src="https://github.com/user-attachments/assets/e778f9fb-fbf2-4431-9361-bf06b5408e32" />
+</details>
 
 ## Important Blocks
 <details>
