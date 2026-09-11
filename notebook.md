@@ -47,6 +47,12 @@
      a sensor that outputs an analog signal based on the amount of ambient sound present. It is programmed using a value between 0 and 100, where 0 is the softest sound that can be detected and 100 is the loudest.
 </details>
 
+<details>
+  <summary>Algorithm</summary>
+     (A finite set of instructions used to accomplish a task.)
+    - Ex. The instructions that move a robot to its final position.
+</details>
+
 ## Important Blocks
 <details>
   <summary>broadcast</summary>
@@ -58,11 +64,6 @@
      (Click help on the block to learned more about it in order to complete this definition)
 </details>
 
-<details>
-  <summary>Algorithm</summary>
-     (A finite set of instructions used to accomplish a task.)
-     Ex. The instructions that move a robot to its final position.
-</details>
 
 ## On the AP Exam
 image.png
