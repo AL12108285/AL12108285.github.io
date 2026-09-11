@@ -49,8 +49,13 @@
 
 <details>
   <summary>Algorithm</summary>
-     (A finite set of instructions used to accomplish a task.)
+     A finite set of instructions used to accomplish a task.
      - Ex. The instructions that move a robot to its final position.
+</details>
+
+<summary>Sequencing</summary>
+    Statements execute in the order they appear unless the flow of control changes.
+     - Ex. <img width="286" height="25" alt="image" src="https://github.com/user-attachments/assets/2cd43b0a-33d9-464e-8aa7-1719261c83a3" />
 </details>
 
 ## Important Blocks
