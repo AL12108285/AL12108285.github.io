@@ -58,6 +58,12 @@
      (Click help on the block to learned more about it in order to complete this definition)
 </details>
 
+<details>
+  <summary>Algorithm</summary>
+     (A finite set of instructions used to accomplish a task.)
+     Ex. The instructions that move a robot to its final position.
+</details>
+
 ## On the AP Exam
 image.png
   - Many languages (and the AP CS Principles Exam) use return instead of report as the name of the command to give a value back at the end of a function call.
