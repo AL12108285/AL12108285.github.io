@@ -69,7 +69,12 @@
   <summary>Iteration</summary>
      Repeating a set of instructions in an algorithm.
      - Ex. <img width="107" height="22" alt="Screenshot 2026-09-12 3 17 17 PM" src="https://github.com/user-attachments/assets/52158b98-afc4-4c06-8f07-a0f13819d05e" />
+</details>
 
+<details>
+  <summary>Variable</summary>
+     A named value that can change while a program runs.
+     - Ex. <img width="82" height="22" alt="Screenshot 2026-09-12 3 19 25 PM" src="https://github.com/user-attachments/assets/7df96539-0899-4dc9-bff2-ab8627d17b0a" />
 </details>
 
 
