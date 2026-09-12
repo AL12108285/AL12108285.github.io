@@ -80,7 +80,8 @@
 <details>
   <summary>Assignment</summary>
      Stores a value in a variable.
-     - Ex. <img width="82" height="22" alt="Screenshot 2026-09-12 3 19 25 PM" src="https://github.com/user-attachments/assets/d6825d47-c4d0-4212-8c16-2587f644c7af" />
+     - Ex. <img width="41" height="22" alt="Screenshot 2026-09-12 3 20 40 PM" src="https://github.com/user-attachments/assets/7bf4dc1e-946a-45ce-93fe-e6cfb2d65f87" />
+
 </details>
 
 ## Important Blocks
