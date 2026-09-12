@@ -68,7 +68,8 @@
 <details>
   <summary>Iteration</summary>
      Repeating a set of instructions in an algorithm.
-     - Ex. 
+     - Ex. <img width="107" height="22" alt="Screenshot 2026-09-12 3 17 17 PM" src="https://github.com/user-attachments/assets/52158b98-afc4-4c06-8f07-a0f13819d05e" />
+
 </details>
 
 
