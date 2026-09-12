@@ -81,7 +81,54 @@
   <summary>Assignment</summary>
      Stores a value in a variable.
      - Ex. <img width="41" height="22" alt="Screenshot 2026-09-12 3 20 40 PM" src="https://github.com/user-attachments/assets/7bf4dc1e-946a-45ce-93fe-e6cfb2d65f87" />
+</details>
 
+<details>
+  <summary>Expression</summary>
+     A combination of values, variables, and operators that evaluates to a value.
+     - Ex. <img width="41" height="22" alt="Screenshot 2026-09-12 3 23 02 PM" src="https://github.com/user-attachments/assets/c6f095ba-2c4f-4d04-9b16-a23b182abd5f" />
+</details>
+
+<details>
+  <summary>Condition</summary>
+     An expression that evaluates to either true or false
+     - Ex. <img width="39" height="22" alt="Screenshot 2026-09-12 3 24 31 PM" src="https://github.com/user-attachments/assets/42cd8fab-8b84-4c2d-9ec8-c1417239cf3a" />
+</details>
+
+<details>
+  <summary>Boolean</summary>
+     A value that is either true or false.
+     - Ex. <img width="135" height="22" alt="Screenshot 2026-09-12 3 25 29 PM" src="https://github.com/user-attachments/assets/90c2796a-f9b3-4286-8330-a1434787612b" />
+</details>
+
+<details>
+  <summary>Relational Operator</summary>
+     Compares two values and produces a Boolean result.
+     - Ex. <img width="140" height="22" alt="Screenshot 2026-09-12 3 26 56 PM" src="https://github.com/user-attachments/assets/cb792e5e-a1f2-4789-ac7d-085c76c794b2" />
+</details>
+
+<details>
+  <summary>Procedure</summary>
+     A named group of programming instructions that performs a task.
+     - Ex. <img width="160" height="22" alt="Screenshot 2026-09-12 3 27 48 PM" src="https://github.com/user-attachments/assets/76768522-59c0-498f-aca9-acda2109560d" />
+</details>
+
+<details>
+  <summary>Procedure Call</summary>
+     Tells the program to execute a procedure.
+     - Ex. <img width="90" height="22" alt="Screenshot 2026-09-12 3 29 03 PM" src="https://github.com/user-attachments/assets/3a8dd429-8048-40c8-bfe6-fb83d7570d6e" />
+</details>
+
+<details>
+  <summary>Parameter</summary>
+     A variable in a procedure definition that receives a value when the procedure is called.
+     - Ex. <img width="198" height="22" alt="Screenshot 2026-09-12 3 30 24 PM" src="https://github.com/user-attachments/assets/a92441d5-1510-41c6-aec6-f31918df3668" />
+</details>
+
+<details>
+  <summary>Argument</summary>
+     The actual value or variable supplied to a procedure when the procedure is called.
+     - Ex. <img width="130" height="19" alt="Screenshot 2026-09-12 3 31 24 PM" src="https://github.com/user-attachments/assets/4e4ef45c-61fa-4820-b804-779c78a007db" />
 </details>
 
 ## Important Blocks
