@@ -77,6 +77,11 @@
      - Ex. <img width="82" height="22" alt="Screenshot 2026-09-12 3 19 25 PM" src="https://github.com/user-attachments/assets/7df96539-0899-4dc9-bff2-ab8627d17b0a" />
 </details>
 
+<details>
+  <summary>Assignment</summary>
+     Stores a value in a variable.
+     - Ex. <img width="82" height="22" alt="Screenshot 2026-09-12 3 19 25 PM" src="https://github.com/user-attachments/assets/d6825d47-c4d0-4212-8c16-2587f644c7af" />
+</details>
 
 ## Important Blocks
 <details>
