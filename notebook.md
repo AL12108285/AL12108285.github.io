@@ -131,6 +131,24 @@
      - Ex. <img width="130" height="19" alt="Screenshot 2026-09-12 3 31 24 PM" src="https://github.com/user-attachments/assets/4e4ef45c-61fa-4820-b804-779c78a007db" />
 </details>
 
+<details>
+  <summary>Flow of Control</summary>
+     The order in which statements in a program are executed.
+     - Ex. <img width="271" height="19" alt="Screenshot 2026-09-12 3 32 49 PM" src="https://github.com/user-attachments/assets/5310ba3e-ce68-4ff7-8003-00ba428c8508" />
+</details>
+
+<details>
+  <summary>Nested Selection</summary>
+     A selection statement contained inside another selection statement.
+     - Ex. <img width="204" height="19" alt="Screenshot 2026-09-12 3 34 07 PM" src="https://github.com/user-attachments/assets/da96dd89-ea2d-4c93-a68e-cf2f01588540" />
+</details>
+
+<details>
+  <summary>Nested Iteration</summary>
+     An iteration statement contained inside another iteration statement.
+     - Ex. <img width="269" height="19" alt="Screenshot 2026-09-12 3 35 24 PM" src="https://github.com/user-attachments/assets/39e971b8-eccc-4081-bb8b-452edc279fe7" />
+</details>
+
 ## Important Blocks
 <details>
   <summary>broadcast</summary>
