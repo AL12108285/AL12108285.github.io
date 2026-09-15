@@ -64,6 +64,11 @@
 </details>
 
 <details>
+  <summary>Sprites</summary>
+    One is a sprite, which is like an actor on the stage who knows how to do many different things, such as walk around the stage and speak the lines of the play.
+</details>
+
+<details>
   <summary>Algorithm</summary>
      A finite set of instructions used to accomplish a task.
      - Ex. The instructions that move a robot to its final position.
