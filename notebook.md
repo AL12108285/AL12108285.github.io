@@ -48,6 +48,22 @@
 </details>
 
 <details>
+  <summary>Sprites</summary>
+    One is a sprite, which is like an actor on the stage who knows how to do many different things, such as walk around the stage and speak the lines of the play.
+</details>
+
+<details>
+  <summary>Costume</summary>
+   The other two are costumes, picture that can be "worn" by a sprite. 
+  <img width="478" height="233" alt="image" src="https://github.com/user-attachments/assets/d27f3f47-31be-4ced-8db8-d8af7a05d086" />
+</details>
+
+<details>
+  <summary>Transparency</summary>
+   is how much you can see what's behind it. For example, here is the Alonzo sprite shown with three different transparencies (which have been set using the ghost effect block). 
+</details>
+
+<details>
   <summary>Algorithm</summary>
      A finite set of instructions used to accomplish a task.
      - Ex. The instructions that move a robot to its final position.
