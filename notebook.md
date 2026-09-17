@@ -327,6 +327,11 @@ Debugging with <img width="103" height="23" alt="Screenshot 2026-09-16 6 15 57 P
 
 You can use pause all to place breaks in your code so you can see what's happening along the way. When you run code with pause all in it, you can click the yellow Run/Pause button next to the Green Flag <img width="99" height="19" alt="Screenshot 2026-09-16 6 16 19 PM" src="https://github.com/user-attachments/assets/0ee6f5cd-bd9f-424a-a550-9d0cf2645664" /> to move through the code up until a pause all block is reached again. The pause all block will pause every script that is running until the yellow Run/Pause button is clicked.
 
+As long as your polygon block draws the right picture, it doesn't matter to the rest of the project what's inside it.
+
+
+
+
 
 
 
