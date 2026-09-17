@@ -279,6 +279,12 @@ Using Visible Stepping
 
 Visible stepping can be useful as you read someone else's code because you can watch it at human speed instead of computer speed. It's also useful in debugging (fixing problems with) your own code when it's doing something wrong.
 
+What's the purpose of "pseudocode"? Why write an algorithm vaguely in English when you could write it precisely in Snap!? If you were programming in a punctuation-heavy language, designing your program in pseudocode would help you focus on the important ideas instead of on details like quotation marks and semicolons. But pseudocode isn't as necessary with a language like Snap!, and pseudocode can make it easy for you to fall into wishful thinking about what the computer is capable of (such as writing "Pick tomorrow's winning lottery numbers" or "Here's the melody; write the harmony").
+
+<img width="1202" height="131" alt="Screenshot 2026-09-16 6 08 20 PM" src="https://github.com/user-attachments/assets/6b87e176-3120-442b-96a3-130ebb5e2436" />
+
+Debugging With <img width="187" height="36" alt="Screenshot 2026-09-16 6 08 48 PM" src="https://github.com/user-attachments/assets/6c1fbbda-f466-4511-a0e3-b76b9655293e" />
+You can use say for to get information about the state of your program while it's running.
 
 
 
