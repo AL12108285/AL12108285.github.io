@@ -1,13 +1,14 @@
 # Angie's Notebook
 ## Table of Contents
 - [Vocab](#vocab)
+- [AP CSP Vocabulary](#ap-csp-vocabulary)
 - [Important Blocks](#important-blocks)
 - [On the AP Exam](#on-the-ap-exam)
 - [BJC Labs](#bjc-labs)
   - [Lab 1 Click Alonzo](#lab-1-click-alonzo)
   - [Lab 2 Gossip](#lab-2-gossip)
   - [Lab 3 Modern Art With Polygons](#lab-3-modern-art-with-polygons)
-  - [Lab 3R Introduction to Computer Control using The Hummingbird Kit](#lab-3r-introduction-to-computer-comtrol-using-the-hummingbird-kit)
+  - [Lab 3R Introduction to Computer Control using The Hummingbird Kit](#lab-3r-introduction-to-computer-control-using-the-hummingbird-kit)
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
   - [Headings](#headings)
   - [Text Formatting](#text-formatting)
@@ -138,7 +139,7 @@
 
 
 
-
+## AP CSP Vocabulary
 
 <details>
   <summary>Algorithm</summary>
