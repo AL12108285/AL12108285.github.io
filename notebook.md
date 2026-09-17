@@ -6,6 +6,7 @@
 - [BJC Labs](#bjc-labs)
   - [Lab 1 Click Alonzo](#lab-1-click-alonzo)
   - [Lab 2 Gossip](#lab-2-gossip)
+  - [Lab 3 Modern Art With Polygons](#lab-3-modern-art-with-polygons)
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
   - [Headings](#headings)
   - [Text Formatting](#text-formatting)
@@ -84,6 +85,50 @@
    To concatenate strings means to make a bigger string by connecting two or more smaller strings. In Snap!, the <img width="121" height="31" alt="Screenshot 2026-09-16 5 22 53 PM" src="https://github.com/user-attachments/assets/ded51874-4247-4d4d-b947-1cfba5c2241a" />
  block lets you concatenate strings.
 </details>
+
+<details>
+  <summary>Debugging</summary>
+   The process of testing, finding problems, and fixing them is called debugging.
+</details>
+
+<details>
+  <summary>Procedures</summary>
+   A procedure is a named sequence of instructions that may take inputs and may report a value. Some languages call procedures methods or functions.
+</details>
+
+<details>
+  <summary>Expressions</summary>
+   An expression is a either a constant value (such as "4" or "winter") or a call to a reporter block including its inputs (such as
+  <img width="725" height="39" alt="Screenshot 2026-09-16 5 56 59 PM" src="https://github.com/user-attachments/assets/ffb967bf-05d4-4de2-9a0d-b03368f46c92" />
+</details>
+
+<details>
+  <summary>Values</summary>
+   Expressions are evaluated to produce a single value (a value can be a number, a string, a sprite, a costume, a script, a list—anything). For example, <img width="209" height="32" alt="Screenshot 2026-09-16 5 58 46 PM" src="https://github.com/user-attachments/assets/c0aa842a-be30-4dec-b652-3425ce1d73a5" /> will be evaluated to 17.
+</details>
+
+<details>
+  <summary>Pseudecode</summary>
+   Some people call an algorithm written in human language pseudocode. Once you know the steps that the computer will take, you can code your algorithm in the programming language of your choice.
+</details>
+
+<details>
+  <summary>Parameter</summary>
+   A parameter (or formal parameter) is the input name, such as number of branches. The input name is set in the block definition. It never changes. Ex. <img width="537" height="238" alt="Screenshot 2026-09-16 6 02 23 PM" src="https://github.com/user-attachments/assets/97bfa246-bd77-4426-bfcc-db9516ce7253" />
+</details>
+
+<details>
+  <summary>Argument</summary>
+   An argument (or actual argument) is the input value, such as 6 for a hexagonal pinwheel. The input value is given each time the block is run; it can be a different value each time. Ex. <img width="342" height="47" alt="Screenshot 2026-09-16 6 03 23 PM" src="https://github.com/user-attachments/assets/1ce35341-bf16-4229-9903-b25e33d73993" />
+</details>
+
+<details>
+  <summary>qwertyuiop</summary>
+   Some people call an algorithm written in human language pseudocode. Once you know the steps that the computer will take, you can code your algorithm in the programming language of your choice.
+</details>
+
+
+
 
 
 
@@ -226,7 +271,7 @@ Abstraction is the most fundamental idea in computer science, but it’s hard to
 
 <img width="1584" height="282" alt="image" src="https://github.com/user-attachments/assets/3a785af0-4d63-47cc-8591-e99db5cbdd63" />
 
-
+### Lab 3 Modern Art With Polygons
 
 
 
