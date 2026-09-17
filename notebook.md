@@ -329,6 +329,7 @@ You can use pause all to place breaks in your code so you can see what's happeni
 
 As long as your polygon block draws the right picture, it doesn't matter to the rest of the project what's inside it.
 
+The for block's default counter name, i stands for "index." You can change this name by clicking it. To use the counter, drag it into the script.
 
 
 
