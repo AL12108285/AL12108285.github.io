@@ -123,8 +123,8 @@
 </details>
 
 <details>
-  <summary>qwertyuiop</summary>
-   Some people call an algorithm written in human language pseudocode. Once you know the steps that the computer will take, you can code your algorithm in the programming language of your choice.
+  <summary>Personally Identifiable Information (PII)</summary>
+   Information that can identify you as an individual is called personally identifiable information (PII). It includes details that could reveal who you are—such as your Social Security number, age, race, phone number(s), medical information, financial information, or biometric data like a thumbprint or face scan.
 </details>
 
 
