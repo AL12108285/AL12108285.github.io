@@ -276,6 +276,7 @@ Using Visible Stepping
   Snap! has a tool called Visible Stepping that allows you to control how quickly Snap! steps through the blocks of your code.
   - Click the Visible Stepping button (Visible Stepping button with two footprints), and adjust the slider to control the stepping speed. When you run your code, the sprite will slowly execute each step of the code and highlight it in cyan.
   - You can slow the stepping to do only one step at a time and wait until you tell Snap! to go on to the next one. Move the slider all the way to the left, and then you can press the Run/Pause button (pause button with play/pause icon) to see what happens at each step of your code.
+
 Visible stepping can be useful as you read someone else's code because you can watch it at human speed instead of computer speed. It's also useful in debugging (fixing problems with) your own code when it's doing something wrong.
 
 
