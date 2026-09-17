@@ -252,6 +252,21 @@ image.png
   - The exam uses "value of a procedure" to mean the value the procedure returns when called. For example, "the value of double(5)" means 10.
   - <img width="1574" height="100" alt="image" src="https://github.com/user-attachments/assets/1e392e2c-1970-40db-b2ee-e7f2620b0c13" />
 
+<img width="775" height="432" alt="Screenshot 2026-09-16 6 13 00 PM" src="https://github.com/user-attachments/assets/334ed761-102c-4633-a5bf-2b1e31da5c7a" />
+
+The procedures move() and turn_clockwise() aren't built in to the AP's language so they are written in lower case like other programmer-defined procedures.
+
+
+<img width="866" height="74" alt="Screenshot 2026-09-16 6 14 38 PM" src="https://github.com/user-attachments/assets/646522a6-4a73-4893-a69b-e72fd002e51a" />
+
+You may hear people use the term "pseudocode" to refer to this pseudo-language used on the AP CS Principles exam, but it's not pseudocode. Pseudocode isn't a programming language at all, it's the use of normal human language to describe an algorithm.
+
+
+
+
+
+
+
 
 
 ## BJC Labs
@@ -287,12 +302,30 @@ Debugging With <img width="187" height="36" alt="Screenshot 2026-09-16 6 08 48 P
 You can use say for to get information about the state of your program while it's running.
 
 What kind of data can be an input?
+
 All kinds of data. In this example, the input is supposed to be a number, but any kind of value can be used as an input. For instance, you've seen the list block called with text as inputs. In Snap!, any kind of data can be used as an input, can be reported by a block, or can be put in a list.
 
+  - Here is another kind of abstraction: input parameters like number of branches allow you to generalize your blocks; the same code can be reused with different input values to get different results.
 
+Debugging Tip: Commenting Your Code
 
+Adding comments to your code may help you remember what your code does, helps other people reading your code to understand it, and can help you avoid bugs by increasing the clarity of your program. But it won't do any of those things if you comment every line of code, so each comment just says how a block inside your script works. You can add comments to your Snap! code by right-clicking (or control-clicking) in the Scripts area and choosing "add comment." Click for an animation that shows how.
 
+You can attach a comment to the hat block in the Block Editor to create a help message for your block. This is the best way to comment, because people can find out what your block does without having to look inside, just like the help messages for primitive blocks.
 
+<img width="601" height="442" alt="Screenshot 2026-09-16 6 11 32 PM" src="https://github.com/user-attachments/assets/f7a2099d-2fc5-4f85-bf23-eca2a14bdc9e" />
+
+Part of the reason some people emphasize the importance of detailed comments is that they are programming in text languages, which discourage long variable and procedure names. (Typically, you can't include spaces in the names, and you have to type the entire name every time you use that variable or procedure.) So you see names like substLcUc instead of substitute lower case letters for upper case letters in string. If a program is full of drastically abbreviated names for procedures and variables, it's no surprise if the code needs documentation. In Snap!, the names in the program can be self-documenting.
+
+Debugging Tip: Organizing Your Code
+
+One way to avoid having bugs in your program in the first place is to keep your code organized by deleting any unused scripts. You can use the clean up option by right-clicking (or control-clicking on a Mac) in the scripting area to organize your blocks. You can remove a block or script either by dragging it out of the scripting area and back to the palettes on the left or by choosing the "delete" option from the drop-down menu. 
+
+![Uploading Screenshot 2026-09-16 6.14.38 PM.png…]()
+
+Debugging with <img width="103" height="23" alt="Screenshot 2026-09-16 6 15 57 PM" src="https://github.com/user-attachments/assets/a8d4b4f1-2ffe-4fdd-8571-4998073c690d" />
+
+You can use pause all to place breaks in your code so you can see what's happening along the way. When you run code with pause all in it, you can click the yellow Run/Pause button next to the Green Flag <img width="99" height="19" alt="Screenshot 2026-09-16 6 16 19 PM" src="https://github.com/user-attachments/assets/0ee6f5cd-bd9f-424a-a550-9d0cf2645664" /> to move through the code up until a pause all block is reached again. The pause all block will pause every script that is running until the yellow Run/Pause button is clicked.
 
 
 
