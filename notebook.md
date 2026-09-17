@@ -69,6 +69,22 @@
   You've seen this example: <img width="524" height="195" alt="Screenshot 2026-09-16 5 20 41 PM" src="https://github.com/user-attachments/assets/73b92b34-e53c-4c54-84ad-36726c232075" />
 </details>
 
+<details>
+  <summary>Strings</summary>
+   A string is a sequence of characters (letters, digits, punctuation, etc.).
+</details>
+
+<details>
+  <summary>Substrings</summary>
+   A substring is just a piece of some existing string. For example, "Hanna," "anna", and "nnah" are each substrings of the string "Hannah." (The empty string as well as the original string are both also substrings.)
+</details>
+
+<details>
+  <summary>Concatenate</summary>
+   To concatenate strings means to make a bigger string by connecting two or more smaller strings. In Snap!, the <img width="121" height="31" alt="Screenshot 2026-09-16 5 22 53 PM" src="https://github.com/user-attachments/assets/ded51874-4247-4d4d-b947-1cfba5c2241a" />
+ block lets you concatenate strings.
+</details>
+
 
 
 <details>
