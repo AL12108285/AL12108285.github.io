@@ -45,8 +45,8 @@
 </details>
 
 <details>
-  <summary>Digital Device</summary>
-     processes information using electronic signals that are either 0 (off) or 1 (on).
+  <summary>Data</summary>
+     is the term used to describe the information used and stored in a computer. It comprises information stored using digital information (0’s and 1’s).
 </details>
 
 <details>
