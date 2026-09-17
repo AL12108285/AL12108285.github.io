@@ -64,9 +64,12 @@
 </details>
 
 <details>
-  <summary>Sprites</summary>
-    One is a sprite, which is like an actor on the stage who knows how to do many different things, such as walk around the stage and speak the lines of the play.
+  <summary>Lists</summary>
+    is an ordered sequence of items. 
+  You've seen this example: <img width="524" height="195" alt="Screenshot 2026-09-16 5 20 41 PM" src="https://github.com/user-attachments/assets/73b92b34-e53c-4c54-84ad-36726c232075" />
 </details>
+
+
 
 <details>
   <summary>Algorithm</summary>
