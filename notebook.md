@@ -286,7 +286,8 @@ What's the purpose of "pseudocode"? Why write an algorithm vaguely in English wh
 Debugging With <img width="187" height="36" alt="Screenshot 2026-09-16 6 08 48 PM" src="https://github.com/user-attachments/assets/6c1fbbda-f466-4511-a0e3-b76b9655293e" />
 You can use say for to get information about the state of your program while it's running.
 
-
+What kind of data can be an input?
+All kinds of data. In this example, the input is supposed to be a number, but any kind of value can be used as an input. For instance, you've seen the list block called with text as inputs. In Snap!, any kind of data can be used as an input, can be reported by a block, or can be put in a list.
 
 
 
