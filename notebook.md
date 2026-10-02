@@ -61,6 +61,18 @@
 </details>
 
 <details>
+  <summary>Position Servo</summary>
+     a motor will turn to a specific angle from 0 to 270 degrees.
+</details>
+
+
+
+<details>
+  <summary>Rotation Servo</summary>
+     a motor that will rotate continuously until turned off. Servo motors are very precise motors.
+</details>
+
+<details>
   <summary>Sprites</summary>
     One is a sprite, which is like an actor on the stage who knows how to do many different things, such as walk around the stage and speak the lines of the play.
 </details>
