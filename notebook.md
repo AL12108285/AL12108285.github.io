@@ -9,6 +9,7 @@
   - [Lab 2 Gossip](#lab-2-gossip)
   - [Lab 3 Modern Art With Polygons](#lab-3-modern-art-with-polygons)
 - [BJC Labs Unit 2](#bjc-labs-unit-2)
+  - [Lab 1 Games](#lab-1-games)
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
   - [Headings](#headings)
   - [Text Formatting](#text-formatting)
@@ -358,8 +359,8 @@ As long as your polygon block draws the right picture, it doesn't matter to the 
 
 The for block's default counter name, i stands for "index." You can change this name by clicking it. To use the counter, drag it into the script.
 
-### BJC Labs Unit 2
-
+## BJC Labs Unit 2
+## Lab 1 Games
 
 
 
