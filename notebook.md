@@ -65,12 +65,18 @@
      a motor will turn to a specific angle from 0 to 270 degrees.
 </details>
 
-
-
 <details>
   <summary>Rotation Servo</summary>
      a motor that will rotate continuously until turned off. Servo motors are very precise motors.
 </details>
+
+<details>
+  <summary>Light Sensor</summary>
+     a sensor that detects ambient light. Light Sensors can be either digital or analog. The Light Sensor in your ITEEA ExCITE Robotics System is Digital and will report a value of 1 or 0 (on or off).
+</details>
+
+
+
 
 <details>
   <summary>Sprites</summary>
