@@ -4,11 +4,11 @@
 - [AP CSP Vocabulary](#ap-csp-vocabulary)
 - [Important Blocks](#important-blocks)
 - [On the AP Exam](#on-the-ap-exam)
-- [BJC Labs](#bjc-labs)
+- [BJC Labs Unit 1](#bjc-labs-unit-1)
   - [Lab 1 Click Alonzo](#lab-1-click-alonzo)
   - [Lab 2 Gossip](#lab-2-gossip)
   - [Lab 3 Modern Art With Polygons](#lab-3-modern-art-with-polygons)
-  - [Lab 3R Introduction to Computer Control using The Hummingbird Kit](#lab-3r-introduction-to-computer-control-using-the-hummingbird-kit)
+  
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
   - [Headings](#headings)
   - [Text Formatting](#text-formatting)
@@ -296,7 +296,7 @@ You may hear people use the term "pseudocode" to refer to this pseudo-language u
 
 
 
-## BJC Labs
+## BJC Labs Unit 1
 ### Lab 1 Click Alonzo
 If you're doing this in class, you should be working with a partner. It's not just for students; professional programmers work with partners too. If each of you is in front of a computer, one of you should keep Snap! open, and the other should keep this lab page open. If you are sharing a computer, use two browser tabs. 
 Orange boxes contain the ideas you should still remember three years from now. Blocks that look like this can be used to detect an event such as clicking on the sprite, pressing a key, or clicking the green flag button. They tell the script to start that event that occurs. Because these blocks can sit only on top of a script (as a way to start the script), Snap! Programmers call them “hat blocks” Using events to control a program is called event-driven programming. Not every script needs a hot block; you can also run a script by clicking on it.
@@ -358,7 +358,7 @@ As long as your polygon block draws the right picture, it doesn't matter to the 
 
 The for block's default counter name, i stands for "index." You can change this name by clicking it. To use the counter, drag it into the script.
 
-### Lab 3R Introduction to Computer Control using The Hummingbird Kit
+
 
 
 
