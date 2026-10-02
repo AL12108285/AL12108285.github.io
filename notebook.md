@@ -290,6 +290,9 @@ The procedures move() and turn_clockwise() aren't built in to the AP's language 
 You may hear people use the term "pseudocode" to refer to this pseudo-language used on the AP CS Principles exam, but it's not pseudocode. Pseudocode isn't a programming language at all, it's the use of normal human language to describe an algorithm.
 
 
+<img width="744" height="43" alt="64107585-9ea4c8f005341fc44293e6d681d1cb93" src="https://github.com/user-attachments/assets/518d4215-c670-4171-bd76-16b52ac92c0b" />
+
+
 
 
 
