@@ -268,6 +268,22 @@
      - Ex. <img width="269" height="19" alt="Screenshot 2026-09-12 3 35 24 PM" src="https://github.com/user-attachments/assets/39e971b8-eccc-4081-bb8b-452edc279fe7" />
 </details>
 
+<details>
+  <summary>Predicate</summary>
+     A predicate is a hexagon-shaped reporter that asks a true/false question such as these examples:<img width="601" height="62" alt="64270496-6c136643fc3cee290ea5e134ca5b473f" src="https://github.com/user-attachments/assets/3ba6e824-753a-47e6-a6ca-143f338a9723" />
+  Predicate report a Bolean value. Either <img width="245" height="36" alt="64270528-1ec547dc30faf7d771652fea8d1721dd" src="https://github.com/user-attachments/assets/ea212d21-2166-4a2f-8aa4-607d5d61d06c" />
+
+</details>
+
+<details>
+  <summary>Predicate</summary>
+     A predicate is a hexagon-shaped reporter that asks a true/false question such as these examples:
+</details>
+
+
+
+
+
 ## Important Blocks
 <details>
   <summary>broadcast</summary>
@@ -297,6 +313,9 @@ You may hear people use the term "pseudocode" to refer to this pseudo-language u
 
 
 <img width="744" height="43" alt="64107585-9ea4c8f005341fc44293e6d681d1cb93" src="https://github.com/user-attachments/assets/518d4215-c670-4171-bd76-16b52ac92c0b" />
+
+Unit 2 Lab 1: Games
+<img width="1578" height="205" alt="64270461-9d6ec10c73c04fb7f567780f8a87109f" src="https://github.com/user-attachments/assets/074c947c-df2a-4aa7-84b7-d7f0ba4dd40f" />
 
 
 
