@@ -153,6 +153,12 @@
    An argument (or actual argument) is the input value, such as 6 for a hexagonal pinwheel. The input value is given each time the block is run; it can be a different value each time. Ex. <img width="342" height="47" alt="Screenshot 2026-09-16 6 03 23 PM" src="https://github.com/user-attachments/assets/1ce35341-bf16-4229-9903-b25e33d73993" />
 </details>
 
+<details>
+  <summary>Local Variable</summary>
+   A local variable can be set or used only in the environment in which it is defined. This term includes inputs to procedures and variables created by the 'for' or 'script' variables block.
+</details>
+
+
 
 
 
