@@ -272,13 +272,9 @@
   <summary>Predicate</summary>
      A predicate is a hexagon-shaped reporter that asks a true/false question such as these examples:<img width="601" height="62" alt="64270496-6c136643fc3cee290ea5e134ca5b473f" src="https://github.com/user-attachments/assets/3ba6e824-753a-47e6-a6ca-143f338a9723" />
   Predicate report a Bolean value. Either <img width="245" height="36" alt="64270528-1ec547dc30faf7d771652fea8d1721dd" src="https://github.com/user-attachments/assets/ea212d21-2166-4a2f-8aa4-607d5d61d06c" />
-
 </details>
 
-<details>
-  <summary>Predicate</summary>
-     A predicate is a hexagon-shaped reporter that asks a true/false question such as these examples:
-</details>
+
 
 
 
