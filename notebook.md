@@ -158,6 +158,25 @@
    A local variable can be set or used only in the environment in which it is defined. This term includes inputs to procedures and variables created by the 'for' or 'script' variables block.
 </details>
 
+<details>
+  <summary>Global Variable</summary>
+   a variable that is usable by all scripts in the program.
+</details>
+
+<details>
+  <summary>Initialing</summary>
+   Setting the starting value of a variable
+</details>
+
+<details>
+  <summary>Index</summary>
+   The position number is called the index of the item in the list.
+</details>
+
+
+
+
+
 
 
 
@@ -313,6 +332,8 @@ You may hear people use the term "pseudocode" to refer to this pseudo-language u
 Unit 2 Lab 1: Games
 <img width="1578" height="205" alt="64270461-9d6ec10c73c04fb7f567780f8a87109f" src="https://github.com/user-attachments/assets/074c947c-df2a-4aa7-84b7-d7f0ba4dd40f" />
 
+<img width="1115" height="92" alt="64271382-3588edf25e9a912f5242f7f7ce397e4d" src="https://github.com/user-attachments/assets/2b548926-2dfe-43fe-83cd-2d2d53e26353" />
+
 
 
 
@@ -386,6 +407,9 @@ The for block's default counter name, i stands for "index." You can change this 
 ## BJC Labs Unit 2
 ## Lab 1 Games
 
+<img width="1336" height="457" alt="64271387-00499ef416c445c97c7f198364c1bbf7" src="https://github.com/user-attachments/assets/33de0e60-ba4e-435e-a1ed-5801879f0aa0" />
+
+<img width="1727" height="64" alt="64271402-81682fb6bbc529f52492820b861cb94a" src="https://github.com/user-attachments/assets/cf82bef5-ff39-46da-a062-2e04559fe20a" />
 
 
 
