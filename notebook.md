@@ -335,6 +335,7 @@ Unit 2 Lab 1: Games
 <img width="1115" height="92" alt="64271382-3588edf25e9a912f5242f7f7ce397e4d" src="https://github.com/user-attachments/assets/2b548926-2dfe-43fe-83cd-2d2d53e26353" />
 
 
+<img width="1024" height="102" alt="64355842-a3194fe5f2f26e5ccb8f73eb07ed5da2" src="https://github.com/user-attachments/assets/663e25fe-60a5-49e6-8834-68bdd43874b5" />
 
 
 
@@ -411,7 +412,7 @@ The for block's default counter name, i stands for "index." You can change this 
 
 <img width="1727" height="64" alt="64271402-81682fb6bbc529f52492820b861cb94a" src="https://github.com/user-attachments/assets/cf82bef5-ff39-46da-a062-2e04559fe20a" />
 
-
+If you save new work under an old filename, Snap! will overwrite your original project. Use "Save as..." from the Snap! menu to save with the new file name. When you load an olderprojec and are about to ake a big change, get in the habit of saving first, with the new name, before you change anything.
 
 ## Markdown Style Guide for Coding Notebooks
 
