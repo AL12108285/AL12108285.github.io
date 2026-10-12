@@ -412,7 +412,17 @@ The for block's default counter name, i stands for "index." You can change this 
 
 <img width="1727" height="64" alt="64271402-81682fb6bbc529f52492820b861cb94a" src="https://github.com/user-attachments/assets/cf82bef5-ff39-46da-a062-2e04559fe20a" />
 
-If you save new work under an old filename, Snap! will overwrite your original project. Use "Save as..." from the Snap! menu to save with the new file name. When you load an olderprojec and are about to ake a big change, get in the habit of saving first, with the new name, before you change anything.
+If you save new work under an old filename, Snap! will overwrite your original project. Use "Save as..." from the Snap! menu to save with the new file name. When you load an older project and are about to make a big change, get in the habit of saving first, with the new name, before you change anything.
+
+
+
+
+
+
+
+
+
+
 
 ## Markdown Style Guide for Coding Notebooks
 
