@@ -337,6 +337,7 @@ Unit 2 Lab 1: Games
 
 <img width="1024" height="102" alt="64355842-a3194fe5f2f26e5ccb8f73eb07ed5da2" src="https://github.com/user-attachments/assets/663e25fe-60a5-49e6-8834-68bdd43874b5" />
 
+<img width="1551" height="172" alt="64424161-eb10717e67304d8b44f91cbf1c6e6dca" src="https://github.com/user-attachments/assets/28fde3cd-a750-42b6-89b5-29c3e7263a00" />
 
 
 
