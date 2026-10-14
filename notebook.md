@@ -340,6 +340,28 @@ Unit 2 Lab 1: Games
 
 <img width="1551" height="172" alt="64424161-eb10717e67304d8b44f91cbf1c6e6dca" src="https://github.com/user-attachments/assets/28fde3cd-a750-42b6-89b5-29c3e7263a00" />
 
+<img width="1560" height="61" alt="64425246-59da433ec5109249a2e3422a05396215" src="https://github.com/user-attachments/assets/731a9003-baf1-40e0-ace3-8ebf0c66ba8d" />
+
+<img width="1484" height="143" alt="64425256-4e37efb2ca25a138092e50d987236f69" src="https://github.com/user-attachments/assets/0c0d9e28-3f7c-4cf1-84d6-3a17cf3d4dbf" />
+
+<img width="1196" height="118" alt="64425261-bc049f2e414c195acabd29d3bde26e8f" src="https://github.com/user-attachments/assets/840665cb-f7ec-4e15-a95b-734d58fc9591" />
+
+<img width="926" height="63" alt="64425274-bc00150f52bbe1a619594a47309756b1" src="https://github.com/user-attachments/assets/29efa287-4df1-49bd-bd4b-2b1892f614c5" />
+
+<img width="1541" height="457" alt="64425281-5ba84f571e3700f87e66359cb41397b1" src="https://github.com/user-attachments/assets/44149508-8f48-4110-87b6-6beeca26e59f" />
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
