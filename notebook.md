@@ -174,6 +174,10 @@
    The position number is called the index of the item in the list.
 </details>
 
+<details>
+  <summary>Element</summary>
+    is another name for an item in a list. (If the same value is in the list twice, that counts as two different elements.) Each element has a unique index (position) in the list.
+</details>
 
 
 
