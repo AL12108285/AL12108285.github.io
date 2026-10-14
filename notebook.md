@@ -10,7 +10,7 @@
   - [Lab 3 Modern Art With Polygons](#lab-3-modern-art-with-polygons)
 - [BJC Labs Unit 2](#bjc-labs-unit-2)
   - [Lab 1 Games](#lab-1-games)
-  - [Lab 2R Making Lists](#lab-2r-kaing-lists)
+  - [Lab 2R Making Lists](#lab-2r-making-lists)
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
   - [Headings](#headings)
   - [Text Formatting](#text-formatting)
