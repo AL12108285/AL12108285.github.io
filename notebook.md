@@ -10,6 +10,7 @@
   - [Lab 3 Modern Art With Polygons](#lab-3-modern-art-with-polygons)
 - [BJC Labs Unit 2](#bjc-labs-unit-2)
   - [Lab 1 Games](#lab-1-games)
+  - [Lab 2R Making Lists](#lab-2r-kaing-lists)
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
   - [Headings](#headings)
   - [Text Formatting](#text-formatting)
@@ -415,7 +416,7 @@ The for block's default counter name, i stands for "index." You can change this 
 
 If you save new work under an old filename, Snap! will overwrite your original project. Use "Save as..." from the Snap! menu to save with the new file name. When you load an older project and are about to make a big change, get in the habit of saving first, with the new name, before you change anything.
 
-
+## Lab 2R Making Lists
 
 
 
