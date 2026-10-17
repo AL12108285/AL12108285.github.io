@@ -436,9 +436,11 @@ The for block's default counter name, i stands for "index." You can change this 
 
 ### Lab 5R EMS Station
 
+<img width="1154" height="375" alt="Screenshot 2026-10-17 3 15 20 PM" src="https://github.com/user-attachments/assets/28c2a3a4-4814-407c-8361-27ae9597c4d8" />
 
+<img width="1154" height="386" alt="Screenshot 2026-10-17 3 16 03 PM" src="https://github.com/user-attachments/assets/3948d675-896f-4e2e-a776-1cc203d5b627" />
 
-
+<img width="1154" height="386" alt="Screenshot 2026-10-17 3 16 47 PM" src="https://github.com/user-attachments/assets/1a66c87e-0808-4d6c-9a4e-9259049f35f4" />
 
 
 
