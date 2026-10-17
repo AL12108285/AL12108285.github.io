@@ -443,6 +443,12 @@ The for block's default counter name, i stands for "index." You can change this 
 <img width="1154" height="386" alt="Screenshot 2026-10-17 3 16 47 PM" src="https://github.com/user-attachments/assets/1a66c87e-0808-4d6c-9a4e-9259049f35f4" />
 
 
+<img width="1154" height="488" alt="Screenshot 2026-10-17 3 20 45 PM" src="https://github.com/user-attachments/assets/b6824435-882d-42f1-a3f6-d817bb69f3ad" />
+
+
+
+
+<img width="1154" height="485" alt="Screenshot 2026-10-17 3 19 28 PM" src="https://github.com/user-attachments/assets/1550b55a-fc25-4581-8190-f008aeffb895" />
 
 
 
