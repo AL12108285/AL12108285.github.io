@@ -465,6 +465,11 @@ Personally, this was probably the hardest part to complete because my Hummingbir
 
 
 <img width="1154" height="485" alt="image" src="https://github.com/user-attachments/assets/588bef29-e94c-4698-ab76-5d350c71cda4" />
+This code makes the yellow light turn on and off. In order to do that, we have to find the value of x. Which in my case, was 8.
+
+
+
+
 
 <img width="1154" height="485" alt="Screenshot 2026-10-17 3 19 28 PM" src="https://github.com/user-attachments/assets/1550b55a-fc25-4581-8190-f008aeffb895" />
 
