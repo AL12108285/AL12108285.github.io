@@ -460,7 +460,8 @@ This image shows a code that switches Alonzo into AlonzoHose when touching the F
 This image shows a code that switches Alonzo into Alonzo Ladder when touching the Tree sprite.
 
 <img width="1154" height="488" alt="Screenshot 2026-10-17 3 20 45 PM" src="https://github.com/user-attachments/assets/b6824435-882d-42f1-a3f6-d817bb69f3ad" />
-
+This code allows the Hummingbird to activate a siren.
+Personally, this was probably the hardest part to complete because my Hummingbird would constantly disconnect and never actually make a sound, even when I did the code properly. After many unsuccessful attempts, I only  got it to work temporarily. 
 
 
 
