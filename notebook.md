@@ -180,8 +180,20 @@
     is another name for an item in a list. (If the same value is in the list twice, that counts as two different elements.) Each element has a unique index (position) in the list.
 </details>
 
+<details>
+  <summary>Data type</summary>
+    what kind of data something is (number, text string, list, etc.). For example, number is the data type for the first input to [item (1) of ()] and list is the the data type for its second input.
+</details>
 
+<details>
+  <summary>Abstract Data Type </summary>
+    is a custom data type that's meaningful to your program. It's not built into the language; you develop it as you code. This is an abstraction because it hides the details inside the constructor and selectors so that programmers working with crossing record think about timestamps and events, not list indices.
+</details>
 
+<details>
+  <summary>Data Abstraction </summary>
+    is the creation and use of abstract data types in a program.
+</details>
 
 
 
