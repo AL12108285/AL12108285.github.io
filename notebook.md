@@ -467,7 +467,12 @@ This image shows a code that switches Alonzo into Alonzo Ladder when touching th
 <img width="1154" height="485" alt="Screenshot 2026-10-17 3 19 28 PM" src="https://github.com/user-attachments/assets/1550b55a-fc25-4581-8190-f008aeffb895" />
 
 
-
+To complete the project successfully, we had to:
+  1. Operate a flashing Yellow (or White) traffic light during normal EMS Station operation.
+  2. Change the traffic light pattern to stop traffic when an emergency call comes into the station.
+  3. Open the garage door of the EMS Station when a siren is sounded.
+  4. Close the garage door of the EMS Station after the EMS vehicle has exited the station.
+  5. Return the traffic light to a blinking yellow light after the EMS vehicle has safely left the station and entered traffic (a short period of green then return to flashing yellow).
 
 
 
