@@ -466,11 +466,10 @@ Personally, this was probably the hardest part to complete because my Hummingbir
 
 <img width="1154" height="485" alt="image" src="https://github.com/user-attachments/assets/588bef29-e94c-4698-ab76-5d350c71cda4" />
 This code makes the yellow light turn on and off. In order to do that, I have to find the value of x. Which in my case, was 8.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 <img width="1154" height="485" alt="download" src="https://github.com/user-attachments/assets/aa623ca0-463e-4925-8c9d-54c2a2993a66" />
 This script opens the garage door when the alarm is detected. This part confused me a lot because I didn't understand what value to put for x (now 40). 
-
-
 
 
 <img width="1154" height="485" alt="Screenshot 2026-10-17 3 19 28 PM" src="https://github.com/user-attachments/assets/1550b55a-fc25-4581-8190-f008aeffb895" />
