@@ -447,9 +447,9 @@ As long as your polygon block draws the right picture, it doesn't matter to the 
 The for block's default counter name, i stands for "index." You can change this name by clicking it. To use the counter, drag it into the script.
 
 ### Lab 5R EMS Station
-
+In this project, we had to make our hummingbird set an alarm when it received an emergency call. The alarm would trigger the garage door to open. When the vehicle leaves the building, another sensor would activate a blinking yellow light and after 2 seconds, it would switch to a continuous red light. After the vehicle leaves, the garage door closes and everything would return back to normal.  
 <img width="1154" height="375" alt="Screenshot 2026-10-17 3 15 20 PM" src="https://github.com/user-attachments/assets/28c2a3a4-4814-407c-8361-27ae9597c4d8" />
-
+This image shows a code that allows the sprite (Alonzo) to change costumes (or appearance) when touching another sprite. In this case, 
 <img width="1154" height="386" alt="Screenshot 2026-10-17 3 16 03 PM" src="https://github.com/user-attachments/assets/3948d675-896f-4e2e-a776-1cc203d5b627" />
 
 <img width="1154" height="386" alt="Screenshot 2026-10-17 3 16 47 PM" src="https://github.com/user-attachments/assets/1a66c87e-0808-4d6c-9a4e-9259049f35f4" />
