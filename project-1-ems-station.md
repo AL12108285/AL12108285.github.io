@@ -24,6 +24,7 @@ title: "Project 1: EMS Station"
   - Close the garage door
   - Return the traffic light to normal flashing-light operation
 
+## What problem was I trying to solve?
  
 
 
