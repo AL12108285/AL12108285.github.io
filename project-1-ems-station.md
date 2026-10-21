@@ -31,7 +31,10 @@ In this activity, when an emergency call comes into the station, an alarm activa
 
 ### 'You will build a system that takes an incoming call from Alonzo to the EMS station. When the call is received, Alonzo’s costume will change according to the emergency and activate the siren. After the call is detected, your system will control the garage door and stop traffic in each direction in front of the EMS Station.'
 
+## Step 1: Changing Costumes
+To begin, I had to build a script that would allow me to move Alonzo (yellow pointy-looking guy) by clicking on it with my mouse and making him stay on the stage.
 
+<img width="1164" height="410" alt="download" src="https://github.com/user-attachments/assets/2378d16c-a85d-4204-917e-1a02ab090549" />
 
 
 
