@@ -14,6 +14,7 @@ The physical system should include:
   - A light sensor
   - A hummingbird robotics controller
   - A Snap! program controlling the system
+
 When an emergency occurs, the system should:
   - Detect the emergency/siren
   - Change the traffic light sequence to safely stop traffic
