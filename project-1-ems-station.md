@@ -38,7 +38,12 @@ In this activity, when an emergency call comes into the station, an alarm activa
  
 The code circled above allowed me to move Alonzo freely while he still stayed on the stage. In other words, he would stop moving when my mouse would go off-stage. This step was probably the easiest because the code was already given to me and all I had to do was put the "if on edge, bounce" block.
 
+ - 
+
 ## Step 2: Changing Costumes
+### Next, I had to build a script that would allow Alonzo to change costumes (appearance) whenever he would touch another sprite when an emergency was happening. In this case, the Medical, Fire, and Tree sprite would change Alonzo's Costume.
+
+<img width="1154" height="375" alt="download" src="https://github.com/user-attachments/assets/12fedad0-c76f-4d3c-9640-5e06a8306f5f" />
 
 
 
