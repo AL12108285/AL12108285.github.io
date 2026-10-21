@@ -5,7 +5,7 @@ title: "Project 1: EMS Station"
 
  # Project 1: EMS Station
 
-The physical system should include:
+### The physical system should include:
   - A traffic light
   - Red, Yellow, Green LED
   - An EMS station
@@ -15,7 +15,7 @@ The physical system should include:
   - A hummingbird robotics controller
   - A Snap! program controlling the system
 
-When an emergency occurs, the system should:
+### When an emergency occurs, the system should:
   - Detect the emergency/siren
   - Change the traffic light sequence to safely stop traffic
   - Open the EMS garage door
