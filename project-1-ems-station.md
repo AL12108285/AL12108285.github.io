@@ -46,11 +46,11 @@ The code circled above allowed me to move Alonzo freely while he still stayed on
 <img width="1154" height="375" alt="download" src="https://github.com/user-attachments/assets/12fedad0-c76f-4d3c-9640-5e06a8306f5f" />
 
 When Alonzo touches the Medical Sprite, (you can see on the top left corner) Alonzo switches from costume "Alonzo" to "AlonzoEMT." 
- - 
-<img width="1154" height="386" alt="download" src="https://github.com/user-attachments/assets/e17960c7-62f2-47f0-bc9a-88e7ccb08975" />
+
+ - <img width="1154" height="386" alt="download" src="https://github.com/user-attachments/assets/e17960c7-62f2-47f0-bc9a-88e7ccb08975" />
 
 When Alonzo touches the Fire sprite, Alonzo switches to "AlonzoHose."
- - 
+
 <img width="1154" height="386" alt="download" src="https://github.com/user-attachments/assets/a4a1f651-1787-45de-bb06-abedb3e56e86" />
 
 When Alonzo touches the Tree sprite, Alonzo switches to "AlonzoLadder."
