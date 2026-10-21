@@ -37,7 +37,7 @@ To begin, I had to build a script that would allow me to move Alonzo (yellow poi
 <img width="1164" height="410" alt="download" src="https://github.com/user-attachments/assets/2378d16c-a85d-4204-917e-1a02ab090549" />
 
 The code circled above allowed me to move Alonzo freely while he still stayed on the stage. In other words, he would stop moving when my mouse would go off-stage.
-This step was probably the easiest because the code was already given to us and all I had to do was put the 
+This step was probably the easiest because the code was already given to us and all I had to do was put the 'if on edge,bounce' block.
 
 
 
