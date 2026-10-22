@@ -67,8 +67,12 @@ The script circled above plays two notes repeatedly when the costume number equa
 - This part was exasperating. My hummingbird would not make any siren noise or any noise in general. It would constantly disconnect and without the connection, it would not create a siren. After many attempts it worked, but only temporarily, and I would have to connect it again and re-run the script in order for it to make a sound.
 
 ## Step 4: Stopping Traffic
-### Furthermore,  I create a scrip that will make the yellow light start blinking. To do that I have to find the value of x.
+### Furthermore,  I create a script that will make the yellow light start blinking. To do that I have to find the value of x.
 
+<img width="322" height="229" alt="64639895-14d2ab1b70578ec6d123cbd2d342b86a" src="https://github.com/user-attachments/assets/86ebbba3-72b8-46a8-95cc-09e8c339a7ef" />
+This script allowed the yellow light to start blinking. It would turn on and then wait 1 second, then turn off, wait 1 second, turn on again, wait 1 second and repeat.
+
+ - I was supposed to connect my lights at the start of the project, but because I skipped the first page I didn't connect them until this step, which shouldn't have affected the performance either way. Figuring out what x could be was annoying but took me no longer than 3 minutes. I did have trouble with the light turning on, but I then realized that the light can't turn on without having of the the LED block at 100% which i failed to realize before.
 
 
 
