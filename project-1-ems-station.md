@@ -76,7 +76,10 @@ This script allowed the yellow light to start blinking. It would turn on and the
 
  - I was supposed to connect my lights at the start of the project, but because I skipped the first page I didn't connect them until this step, which shouldn't have affected the performance either way. Figuring out what x could be was annoying but took me no longer than 3 minutes. I did have trouble with the light turning on, but I then realized that the light can't turn on without having of the the LED block at 100% which i failed to realize before.
 
+## Step 5: Opening the Garage door
+### Lastly, I had to build a script that would make the garage door open when an emergency call came in.
 
+<img width="315" height="277" alt="64640209-9f33ae975fed35aaa41bd124f123c00c" src="https://github.com/user-attachments/assets/18cf7fe5-74c0-49e7-946e-e32dbbbf424d" />
 
 
 
