@@ -69,7 +69,7 @@ The script circled above plays two notes repeatedly when the costume number equa
 ## Step 4: Stopping Traffic
 ### Furthermore,  I create a script that will make the yellow light start blinking. To do that I have to find the value of x.
 
-<img width="561" height="314" alt="64640078-7884925a1d3069f28a2f63a8434b21cd" src="https://github.com/user-attachments/assets/8932b689-8731-4b91-8e48-08021815b3fb" />
+<img width="461" height="214" alt="64640078-7884925a1d3069f28a2f63a8434b21cd" src="https://github.com/user-attachments/assets/8932b689-8731-4b91-8e48-08021815b3fb" />
 <img width="322" height="229" alt="64639895-14d2ab1b70578ec6d123cbd2d342b86a" src="https://github.com/user-attachments/assets/86ebbba3-72b8-46a8-95cc-09e8c339a7ef" />
 
 This script allowed the yellow light to start blinking. It would turn on and then wait 1 second, then turn off, wait 1 second, turn on again, wait 1 second and repeat.
