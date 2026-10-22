@@ -38,7 +38,7 @@ In this activity, when an emergency call comes into the station, an alarm activa
  
 The code circled above allowed me to move Alonzo freely while he still stayed on the stage. In other words, he would stop moving when my mouse would go off-stage. 
 
- - This step was probably the easiest because the code was already given to me and all I had to do was put the "if on edge, bounce" block.
+ - This step was the easiest because the code was already given to me and all I had to do was put the "if on edge, bounce" block.
 
 ## Step 2: Changing Costumes
 ### Next, I had to build a script that would allow Alonzo to change costumes (appearance) whenever he would touch another sprite when an emergency was happening. In this case, the Medical, Fire, and Tree sprite would change Alonzo's Costume.
@@ -58,7 +58,11 @@ When Alonzo touches the Tree sprite, Alonzo switches to "AlonzoLadder."
  - This code was also pretty easy because the code was given to us too. I just duplicate the code and tell it to switch to a different costume for a different situation.
 
 ## Step 3: Programming a Siren
+### Then, I create a script for a siren to activate when the station receives an emergency call.
 
+<img width="670" height="485" alt="download" src="https://github.com/user-attachments/assets/bfdbc79e-b62d-405c-868f-4680601797b4" />
+The script above plays two notes repeatedly when the costume number equals one. Costume one is Alonzo's default appearance.
+- This part was exasperating. My hummingbird would not make any siren noise or any noise in general. It would constantly disconnect and without the connection, it would not create a siren. After many attempts it worked, but only temporarily, and I would have to connect it again and re-run the script in order for it to make a sound.
 
 
 
