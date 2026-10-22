@@ -62,7 +62,7 @@ When Alonzo touches the Tree sprite, Alonzo switches to "AlonzoLadder."
 
 <img width="670" height="485" alt="download" src="https://github.com/user-attachments/assets/bfdbc79e-b62d-405c-868f-4680601797b4" />
 
-The script above plays two notes repeatedly when the costume number equals one. Costume one is Alonzo's default appearance.
+The script circled above plays two notes repeatedly when the costume number equals one. Costume one is Alonzo's default appearance.
 
 - This part was exasperating. My hummingbird would not make any siren noise or any noise in general. It would constantly disconnect and without the connection, it would not create a siren. After many attempts it worked, but only temporarily, and I would have to connect it again and re-run the script in order for it to make a sound.
 
