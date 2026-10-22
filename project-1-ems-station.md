@@ -15,14 +15,9 @@ title: "Project 1: EMS Station"
   - A hummingbird robotics controller
   - A Snap! program controlling the system
 
-### When an emergency occurs, the system should:
-  - Detect the emergency/siren
-  - Change the traffic light sequence to safely stop traffic
-  - Open the EMS garage door
-  - Allow the emergency vehicle to leave
-  - Detect when the vehicle has passed the Light sensor
-  - Close the garage door
-  - Return the traffic light to normal flashing-light operation
+### What should the system do when an emergency occurs?
+### The system should change Alonzo's Costume accordingly to the situation and set of a siren which will tell the light to flash yellow, open the garage door, detect when the vehicle has safely passed, and close the garage door.
+ 
 
 ## What problem was I trying to solve?
 ### 'An EMS Station is located on a busy highway, and when the EMS staff needs to respond to an emergency call, they must stop the traffic in both directions to safely exit the station.'
