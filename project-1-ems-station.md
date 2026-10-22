@@ -7,6 +7,8 @@ title: "Project 1: EMS Station"
 
 ## My Project! - https://snap.berkeley.edu/snap/snap.html#present:Username=lvhs3&ProjectName=EMS%20Project%20-%20New%20Starter%20Code%204%2024
 
+
+
 ### The physical system should include:
   - A traffic light
   - Red, Yellow, Green LED
@@ -83,6 +85,10 @@ This script allowed the yellow light to start blinking. It would turn on and the
  - I barely finished this part. When making the top code, I had to find how loud the siren would sound at first, which would be my x. In my case, it was at 40 and would go as loud as 86. When the siren goes off, the loudness will give the position servo the signal to turn 90 degrees clockwise.
  - The bottom code would allow the garage door to close by detecting low light. I didn't get far enough to finish discussing what my x could be, so I just put 40.
  - I also did not have enough time to make a code that would turn everything back to normal.
+
+
+
+As I was completing my project, reviewing, editing, and debugging, it unfortunately did not save. I had to restart the whole thing so I'm not 100% sure the code works.
 
 
 
