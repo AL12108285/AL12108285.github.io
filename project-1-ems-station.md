@@ -27,10 +27,10 @@ title: "Project 1: EMS Station"
 ## What problem was I trying to solve?
 ### 'An EMS Station is located on a busy highway, and when the EMS staff needs to respond to an emergency call, they must stop the traffic in both directions to safely exit the station.'
 
-
+### What I had to build:
 In this activity, when an emergency call comes into the station, an alarm/siren activates. This will give the signal for the garage door to open and allow the vehicle to exit. While the vehicle leaves, a sensor tells the light to turn flashing yellow, which after the vehicle leaves the sensor would close the garage door and everything would reset back to normal.
 
-### 'You will build a system that takes an incoming call from Alonzo to the EMS station. When the call is received, Alonzo’s costume will change according to the emergency and activate the siren. After the call is detected, your system will control the garage door and stop traffic in each direction in front of the EMS Station.'
+
 
 ## Step 1: Staying on the Stage
 ### To begin, I had to build a script that would allow me to move Alonzo (yellow pointy-looking guy) by clicking on it with my mouse and making him stay on the stage.
