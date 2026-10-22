@@ -70,6 +70,7 @@ The script circled above plays two notes repeatedly when the costume number equa
 ### Furthermore,  I create a script that will make the yellow light start blinking. To do that I have to find the value of x.
 
 <img width="322" height="229" alt="64639895-14d2ab1b70578ec6d123cbd2d342b86a" src="https://github.com/user-attachments/assets/86ebbba3-72b8-46a8-95cc-09e8c339a7ef" />
+
 This script allowed the yellow light to start blinking. It would turn on and then wait 1 second, then turn off, wait 1 second, turn on again, wait 1 second and repeat.
 
  - I was supposed to connect my lights at the start of the project, but because I skipped the first page I didn't connect them until this step, which shouldn't have affected the performance either way. Figuring out what x could be was annoying but took me no longer than 3 minutes. I did have trouble with the light turning on, but I then realized that the light can't turn on without having of the the LED block at 100% which i failed to realize before.
