@@ -25,9 +25,10 @@ title: "Project 1: EMS Station"
   - Return the traffic light to normal flashing-light operation
 
 ## What problem was I trying to solve?
-### An EMS Station is located on a busy highway, and when the EMS staff needs to respond to an emergency call, they must stop the traffic in both directions to safely exit the station.
+### 'An EMS Station is located on a busy highway, and when the EMS staff needs to respond to an emergency call, they must stop the traffic in both directions to safely exit the station.'
 
-In this activity, when an emergency call comes into the station, an alarm activates. This will give the signal for the garage door to open and allow the vehicle to exit. While the vehicle leaves, a sensor tells the flashing yellow light to stay continuously yellow and after 2 seconds, it would turn red, which after the vehicle leaves the sensor would close the garage door.
+
+In this activity, when an emergency call comes into the station, an alarm/siren activates. This will give the signal for the garage door to open and allow the vehicle to exit. While the vehicle leaves, a sensor tells the light to turn flashing yellow, which after the vehicle leaves the sensor would close the garage door and everything would reset back to normal.
 
 ### 'You will build a system that takes an incoming call from Alonzo to the EMS station. When the call is received, Alonzo’s costume will change according to the emergency and activate the siren. After the call is detected, your system will control the garage door and stop traffic in each direction in front of the EMS Station.'
 
@@ -82,10 +83,9 @@ This script allowed the yellow light to start blinking. It would turn on and the
 <img width="315" height="277" alt="64640209-9f33ae975fed35aaa41bd124f123c00c" src="https://github.com/user-attachments/assets/18cf7fe5-74c0-49e7-946e-e32dbbbf424d" />
 
 
- - I barely finished this part. 
-
-
-
+ - I barely finished this part. When making the top code, I had to find how loud the siren would sound at first, which would be my x. In my case, it was at 40 and would go as loud as 86. When the siren goes off, the loudness will give the position servo the signal to turn 90 degrees clockwise.
+ - The bottom code would allow the garage door to close by detecting low light. I didn't get far enough to finish discussing what my x could be, so I just put 40.
+ - I also did not have enough time to make a code that would turn everything back to normal.
 
 
 
