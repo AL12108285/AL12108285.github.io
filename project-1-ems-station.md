@@ -66,7 +66,8 @@ The script circled above plays two notes repeatedly when the costume number equa
 
 - This part was exasperating. My hummingbird would not make any siren noise or any noise in general. It would constantly disconnect and without the connection, it would not create a siren. After many attempts it worked, but only temporarily, and I would have to connect it again and re-run the script in order for it to make a sound.
 
-
+## Step 4: Stopping Traffic
+### Furthermore,  I create a scrip that will make the yellow light start blinking. To do that I have to find the value of x.
 
 
 
