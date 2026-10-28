@@ -194,7 +194,10 @@
     is the creation and use of abstract data types in a program.
 </details>
 
-
+<details>
+  <summary> Sublist </summary>
+    A sublist is a list used as an item of another list.
+</details>
 
 
 
