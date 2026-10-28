@@ -199,6 +199,36 @@
     A sublist is a list used as an item of another list.
 </details>
 
+<details>
+  <summary> Table </summary>
+    A table is a two-dimensional data structure with rows and columns. If you've used a spreadsheet program, what it displays is a table. In Snap!, a table is implemented as a list of lists, in which each sublist is one row of the table.
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
