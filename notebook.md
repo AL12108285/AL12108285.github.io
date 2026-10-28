@@ -8,7 +8,6 @@
   - [Lab 1 Click Alonzo](#lab-1-click-alonzo)
   - [Lab 2 Gossip](#lab-2-gossip)
   - [Lab 3 Modern Art With Polygons](#lab-3-modern-art-with-polygons)
-  - [Lab 5R EMS Station](#lab-5r-ems-station)
 - [BJC Labs Unit 2](#bjc-labs-unit-2)
   - [Lab 1 Games](#lab-1-games)
   - [Lab 2R Making Lists](#lab-2r-making-lists)
@@ -445,51 +444,6 @@ You can use pause all to place breaks in your code so you can see what's happeni
 As long as your polygon block draws the right picture, it doesn't matter to the rest of the project what's inside it.
 
 The for block's default counter name, i stands for "index." You can change this name by clicking it. To use the counter, drag it into the script.
-
-### Lab 5R EMS Station
-In this project, we had to make our hummingbird set an alarm when it received an emergency call. The alarm would trigger the garage door to open. When the vehicle leaves the building, another sensor would activate a blinking yellow light and after 2 seconds, it would switch to a continuous red light. After the vehicle leaves, the garage door closes and everything would return back to normal.  
-
-The first step we did was changing Alonzo's costume (or appearance) when it touched another sprite.
-<img width="1154" height="375" alt="Screenshot 2026-10-17 3 15 20 PM" src="https://github.com/user-attachments/assets/28c2a3a4-4814-407c-8361-27ae9597c4d8" />
-This image shows a code that allows Alonzo to change costume when touching another sprite. In this case, when regular Alonzo touches the Medical Sprite, It switches to AlonzoEMT.
-
-<img width="1154" height="386" alt="Screenshot 2026-10-17 3 16 03 PM" src="https://github.com/user-attachments/assets/3948d675-896f-4e2e-a776-1cc203d5b627" />
-This image shows a code that switches Alonzo into AlonzoHose when touching the Fire sprite.
-
-<img width="1154" height="386" alt="Screenshot 2026-10-17 3 16 47 PM" src="https://github.com/user-attachments/assets/1a66c87e-0808-4d6c-9a4e-9259049f35f4" />
-This image shows a code that switches Alonzo into Alonzo Ladder when touching the Tree sprite.
-
-<img width="1154" height="488" alt="Screenshot 2026-10-17 3 20 45 PM" src="https://github.com/user-attachments/assets/b6824435-882d-42f1-a3f6-d817bb69f3ad" />
-This code allows the Hummingbird to activate a siren.
-Personally, this was probably the hardest part to complete because my Hummingbird would constantly disconnect and never actually make a sound, even when I did the code properly. After many unsuccessful attempts, I only  got it to work temporarily. 
-
-
-<img width="1154" height="485" alt="image" src="https://github.com/user-attachments/assets/588bef29-e94c-4698-ab76-5d350c71cda4" />
-This code makes the yellow light turn on and off. In order to do that, I have to find the value of x. Which in my case, was 8.
-
-
-<img width="1154" height="485" alt="download" src="https://github.com/user-attachments/assets/aa623ca0-463e-4925-8c9d-54c2a2993a66" />
-This script opens the garage door when the alarm is detected. This part confused me a lot because I didn't understand what value to put for x (now 40). 
-
-
-<img width="1154" height="485" alt="Screenshot 2026-10-17 3 19 28 PM" src="https://github.com/user-attachments/assets/1550b55a-fc25-4581-8190-f008aeffb895" />
-
-
-To complete the project successfully, we had to:
-  1. Operate a flashing Yellow (or White) traffic light during normal EMS Station operation.
-  2. Change the traffic light pattern to stop traffic when an emergency call comes into the station.
-  3. Open the garage door of the EMS Station when a siren is sounded.
-  4. Close the garage door of the EMS Station after the EMS vehicle has exited the station.
-  5. Return the traffic light to a blinking yellow light after the EMS vehicle has safely left the station and entered traffic (a short period of green then return to flashing yellow).
-
-
-
-
-
-
-
-
-
 
 
 
