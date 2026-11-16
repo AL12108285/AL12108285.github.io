@@ -23,7 +23,7 @@ title: "Project 2 Railroad Crossing"
   - Turn off the buzzer, light and lift the gate when the train passes
 
 ## Step 1: Recording Date, Time, and Speed
-### To start off, I had to built a script that record the date, time and speed of the train when it passing
+### To start off, I had to built a script that record the date, time and speed of the train when it would pass
 
 
 
