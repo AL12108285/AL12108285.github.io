@@ -16,12 +16,20 @@ title: "Project 2 Railroad Crossing"
   - A Snap! program controlling the system
 
 
-
-### The working project should:
+## What should the system do when a train is coming?
   - Record the date, time and speed of the train when the system is activated
   - Detect the train and activate the buzzer and flashing lights
   - Lower the gate to stop traffic
   - Turn off the buzzer, light and lift the gate when the train passes
+
+## Step 1: Recording Date, Time, and Speed
+### To start off, I had to built a script that record the date, time and speed of the train when it passing
+
+
+
+
+
+
 
 
 
