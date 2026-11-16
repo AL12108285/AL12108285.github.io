@@ -17,7 +17,7 @@ title: "Project 2 Railroad Crossing"
 
 
 
-### The project should:
+### The working project should:
   - Record the date, time and speed of the train when the system is activated
   - Detect the train and activate the buzzer and flashing lights
   - Lower the gate to stop traffic
