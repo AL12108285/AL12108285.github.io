@@ -32,13 +32,27 @@ I first had to make a variable; where the information, or the crossing record, w
 
   - I really struggled on this step because i mistakenly skipped the first page explaining what each block does, but after re-reading and reviewing the instructions I sorta understood that I had to make somewhere for the information to be recorded and something that get the information. I eventually asked for help because I genuinely had no idea how to start.
 
-## Step 2: Detecting the Approaching Train
-### Next, I had to build a script that would detect the train apporaching using the distance sensor.
+## Step 2: Detecting Train and Stopping Traffic
+### Next, I had to build a script that would detect the train approaching using the distance sensor, and add the time, date, and speed to the crossing record and stop traffic.
 
 
+<img width="486" height="152" alt="72cbd626-10d6-4082-88ec-ada82fb29e6d" src="https://github.com/user-attachments/assets/3afc20a9-66b8-445d-b700-ba1c6f895fd1" />
+
+<img width="359" height="55" alt="0f0ee61f-a12c-4709-9611-0cfaa1abc16c" src="https://github.com/user-attachments/assets/89d5fcd8-042c-4074-afb4-5c3b05e7f1cd" />
+
+If the train passes in front of the distance sensor and the distance is below 20, this code puts the speed, time, and speed into the crossing record I made previously. It also activates the position servo to rotate 0 degrees while the train is passing and after the train is done passing, it rotates back to 90 degrees. I also added a little piece of cardboard to create the gate and stop traffic when the train is crossing.
+
+  - This part was easy to understand after I was given the code. I, again, had no idea where to start but my friend assisted me. After reading the code multiple times, I understood what It had to do and how it did it.
+
+## Step 3: Flashing Lights
+### Furthermore, I was asked to build a script that would tell traffic when to go and when to stop to avoid accidents with the train.
+
+<img width="471" height="440" alt="997d693e-0bf5-4979-9909-1f1232e1a53c" src="https://github.com/user-attachments/assets/bbc9a93d-454f-4514-9110-c6fa2bf994a4" />
+
+The circled code above made my Tri-LED light flash red to signal traffic to stop while the train was passing,(with the help of the distance sensor and the code mentioned before). After the train finishes passing, the light would continuously turn green to signal that it's safe for traffic to pass.
 
 
-
+  - This part was simple because in our last project I learned change the color of the light, and how to turn off and turn on the lights.
 
 
 
