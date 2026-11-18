@@ -52,7 +52,7 @@ If the train passes in front of the distance sensor and the distance is below 20
 The circled code above made my Tri-LED light flash red to signal traffic to stop while the train was passing,(with the help of the distance sensor and the code mentioned before). After the train finishes passing, the light would continuously turn green to signal that it's safe for traffic to pass.
 
 
-  - This part was simple because in our last project I learned change the color of the light, and how to turn off and turn on the lights.
+  - This part was simple because in our last project I learned how to change the color of the light, and how to turn off and turn on the lights.
 
 
 
