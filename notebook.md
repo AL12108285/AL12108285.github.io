@@ -11,6 +11,7 @@
 - [BJC Labs Unit 2](#bjc-labs-unit-2)
   - [Lab 1 Games](#lab-1-games)
   - [Lab 2R Making Lists](#lab-2r-making-lists)
+  - [Lab 3 Making Decisions](#lab-3-making-decisions)
 - [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
   - [Headings](#headings)
   - [Text Formatting](#text-formatting)
@@ -204,6 +205,15 @@
     A table is a two-dimensional data structure with rows and columns. If you've used a spreadsheet program, what it displays is a table. In Snap!, a table is implemented as a list of lists, in which each sublist is one row of the table.
 </details>
 
+<details>
+  <summary> Input Type </summary>
+    (often called domain by programmers) of a function is the type of data that it accepts as input.
+</details>
+
+<details>
+  <summary> Output Type </summary>
+    (often called range) of a function is the type of data that it reports as output.
+</details>
 
 
 
@@ -494,6 +504,55 @@ The for block's default counter name, i stands for "index." You can change this 
 If you save new work under an old filename, Snap! will overwrite your original project. Use "Save as..." from the Snap! menu to save with the new file name. When you load an older project and are about to make a big change, get in the habit of saving first, with the new name, before you change anything.
 
 ## Lab 2R Making Lists
+
+## Lab 3 Making Decisions
+So, the input type of a conditional is Booleans, and the output type of a predicate is also Booleans.
+
+Along with "abstraction," these two ideas are among the most important in computer science. If you get in the habit of using them in your thinking, you'll have many fewer bugs in your programs, because you'll automatically double-check that the output type of a reporter matches the input type of the block in which you're trying to use it.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
