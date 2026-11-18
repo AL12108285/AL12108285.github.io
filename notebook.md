@@ -409,8 +409,9 @@ Unit 2 Lab 1: Games
 
 <img width="1541" height="457" alt="64425281-5ba84f571e3700f87e66359cb41397b1" src="https://github.com/user-attachments/assets/44149508-8f48-4110-87b6-6beeca26e59f" />
 
+### Unit 2 Lab 3: Making Decisions, Page 1
 
-
+<img width="1519" height="161" alt="65346629-64ab579674cfe98633377b1823b2319c" src="https://github.com/user-attachments/assets/e455a3f0-a9e0-4f3a-840f-7d09d58c13ac" />
 
 
 
