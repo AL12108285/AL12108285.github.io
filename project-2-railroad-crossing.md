@@ -30,7 +30,7 @@ title: "Project 2 Railroad Crossing"
 
 I first had to make a variable; where the information, or the crossing record, would be stored. The green block that starts with "Crossing Record:" does just that. But the information can't be automatically filled out by itself, that's where bottom code comes to play. The bottom code joins the date, time and speed and puts it into a list. But what list does it go into? That's when I made the new list called "crossing activation," which records the crossing record every time the train passes.
 
-  - I really struggled on this step because i mistakenly skipped the first page explaining what each block does, but after re-reading and reviewing the instructions I sorta understood that I had to make somewhere for the information to be recorded and something that get the information. I eventually asked for help because I genuinely had no idea how to start.
+  - I really struggled on this step because i mistakenly skipped the first page explaining what each block does, but after re-reading and reviewing the instructions I sorta understood that I had to make somewhere for the information to be recorded and something that recieves the information. I eventually asked for help because I genuinely had no idea how to start.
 
 ## Step 2: Detecting Train and Stopping Traffic
 ### Next, I had to build a script that would detect the train approaching using the distance sensor, and add the time, date, and speed to the crossing record and stop traffic.
