@@ -262,6 +262,13 @@
      Reported by a predicate (either true or false)
 </details>
 
+<details>
+  <summary>Condition (Unit 2 Lab 1: Games)</summary>
+     An expression that evaluates to either true or false
+     - Ex. <img width="39" height="22" alt="Screenshot 2026-09-12 3 24 31 PM" src="https://github.com/user-attachments/assets/42cd8fab-8b84-4c2d-9ec8-c1417239cf3a" />
+</details>
+
+
 
 
 
@@ -310,12 +317,6 @@
   <summary>Expression</summary>
      A combination of values, variables, and operators that evaluates to a value.
      - Ex. <img width="41" height="22" alt="Screenshot 2026-09-12 3 23 02 PM" src="https://github.com/user-attachments/assets/c6f095ba-2c4f-4d04-9b16-a23b182abd5f" />
-</details>
-
-<details>
-  <summary>Condition</summary>
-     An expression that evaluates to either true or false
-     - Ex. <img width="39" height="22" alt="Screenshot 2026-09-12 3 24 31 PM" src="https://github.com/user-attachments/assets/42cd8fab-8b84-4c2d-9ec8-c1417239cf3a" />
 </details>
 
 <details>
