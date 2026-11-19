@@ -161,12 +161,12 @@
 </details>
 
 <details>
-  <summary>Global Variable</summary>
+  <summary>Global Variable (Unit 2 Lab 1: Games)</summary>
    a variable that is usable by all scripts in the program.
 </details>
 
 <details>
-  <summary>Initialing</summary>
+  <summary>Initialing (Unit 2 Lab 1: Games)</summary>
    Setting the starting value of a variable
 </details>
 
