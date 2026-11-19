@@ -270,7 +270,7 @@
 </details>
 
 <details>
-  <summary>Variable</summary>
+  <summary>Variable (Unit 2 Lab 1: Games)</summary>
      A named value that can change while a program runs.
      - Ex. <img width="82" height="22" alt="Screenshot 2026-09-12 3 19 25 PM" src="https://github.com/user-attachments/assets/7df96539-0899-4dc9-bff2-ab8627d17b0a" />
 </details>
