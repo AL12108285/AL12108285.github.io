@@ -392,6 +392,7 @@ You may hear people use the term "pseudocode" to refer to this pseudo-language u
 Unit 2 Lab 1: Games
 <img width="1578" height="205" alt="64270461-9d6ec10c73c04fb7f567780f8a87109f" src="https://github.com/user-attachments/assets/074c947c-df2a-4aa7-84b7-d7f0ba4dd40f" />
 
+### Unit 2 Lab 1: Games
 <img width="1115" height="92" alt="64271382-3588edf25e9a912f5242f7f7ce397e4d" src="https://github.com/user-attachments/assets/2b548926-2dfe-43fe-83cd-2d2d53e26353" />
 
 
