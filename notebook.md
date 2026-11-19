@@ -246,6 +246,29 @@
 ## AP CSP Vocabulary
 
 <details>
+  <summary>Variable (Unit 2 Lab 1: Games)</summary>
+     A named value that can change while a program runs.
+     - Ex. <img width="82" height="22" alt="Screenshot 2026-09-12 3 19 25 PM" src="https://github.com/user-attachments/assets/7df96539-0899-4dc9-bff2-ab8627d17b0a" />
+</details>
+
+<details>
+  <summary>Predicate (Unit 2 Lab 1: Games)</summary>
+     A predicate is a hexagon-shaped reporter that asks a true/false question such as these examples:<img width="601" height="62" alt="64270496-6c136643fc3cee290ea5e134ca5b473f" src="https://github.com/user-attachments/assets/3ba6e824-753a-47e6-a6ca-143f338a9723" />
+  Predicate report a Bolean value. Either <img width="245" height="36" alt="64270528-1ec547dc30faf7d771652fea8d1721dd" src="https://github.com/user-attachments/assets/ea212d21-2166-4a2f-8aa4-607d5d61d06c" />
+</details>
+
+<details>
+  <summary>Boolean Value (Unit 2 Lab 1: Games)</summary>
+     Reported by a predicate (either true or false)
+</details>
+
+
+
+
+
+
+
+<details>
   <summary>Algorithm</summary>
      A finite set of instructions used to accomplish a task. 
      - Ex. The instructions that move a robot to its final position.
@@ -269,11 +292,13 @@
      - Ex. <img width="107" height="22" alt="Screenshot 2026-09-12 3 17 17 PM" src="https://github.com/user-attachments/assets/52158b98-afc4-4c06-8f07-a0f13819d05e" />
 </details>
 
-<details>
-  <summary>Variable (Unit 2 Lab 1: Games)</summary>
-     A named value that can change while a program runs.
-     - Ex. <img width="82" height="22" alt="Screenshot 2026-09-12 3 19 25 PM" src="https://github.com/user-attachments/assets/7df96539-0899-4dc9-bff2-ab8627d17b0a" />
-</details>
+
+
+
+
+
+
+
 
 <details>
   <summary>Assignment</summary>
@@ -347,11 +372,12 @@
      - Ex. <img width="269" height="19" alt="Screenshot 2026-09-12 3 35 24 PM" src="https://github.com/user-attachments/assets/39e971b8-eccc-4081-bb8b-452edc279fe7" />
 </details>
 
-<details>
-  <summary>Predicate</summary>
-     A predicate is a hexagon-shaped reporter that asks a true/false question such as these examples:<img width="601" height="62" alt="64270496-6c136643fc3cee290ea5e134ca5b473f" src="https://github.com/user-attachments/assets/3ba6e824-753a-47e6-a6ca-143f338a9723" />
-  Predicate report a Bolean value. Either <img width="245" height="36" alt="64270528-1ec547dc30faf7d771652fea8d1721dd" src="https://github.com/user-attachments/assets/ea212d21-2166-4a2f-8aa4-607d5d61d06c" />
-</details>
+
+
+
+
+
+
 
 
 
@@ -389,11 +415,14 @@ You may hear people use the term "pseudocode" to refer to this pseudo-language u
 
 <img width="744" height="43" alt="64107585-9ea4c8f005341fc44293e6d681d1cb93" src="https://github.com/user-attachments/assets/518d4215-c670-4171-bd76-16b52ac92c0b" />
 
-Unit 2 Lab 1: Games
-<img width="1578" height="205" alt="64270461-9d6ec10c73c04fb7f567780f8a87109f" src="https://github.com/user-attachments/assets/074c947c-df2a-4aa7-84b7-d7f0ba4dd40f" />
+
 
 ### Unit 2 Lab 1: Games
 <img width="1115" height="92" alt="64271382-3588edf25e9a912f5242f7f7ce397e4d" src="https://github.com/user-attachments/assets/2b548926-2dfe-43fe-83cd-2d2d53e26353" />
+
+<img width="1578" height="205" alt="64270461-9d6ec10c73c04fb7f567780f8a87109f" src="https://github.com/user-attachments/assets/074c947c-df2a-4aa7-84b7-d7f0ba4dd40f" />
+
+
 
 
 <img width="1024" height="102" alt="64355842-a3194fe5f2f26e5ccb8f73eb07ed5da2" src="https://github.com/user-attachments/assets/663e25fe-60a5-49e6-8834-68bdd43874b5" />
