@@ -215,7 +215,10 @@
     (often called range) of a function is the type of data that it reports as output.
 </details>
 
-
+<details>
+  <summary>Nested Conditional Statement (Unit 2 Lab 3: Making Decisions)</summary>
+     is an if or if else statement inside another if else statement.
+</details>
 
 
 
@@ -373,10 +376,7 @@
      - Ex. <img width="269" height="19" alt="Screenshot 2026-09-12 3 35 24 PM" src="https://github.com/user-attachments/assets/39e971b8-eccc-4081-bb8b-452edc279fe7" />
 </details>
 
-<details>
-  <summary>Nested Conditional Statement (Unit 2 Lab 3: Making Decisions)</summary>
-     is an if or if else statement inside another if else statement.
-</details>
+
 
 
 
