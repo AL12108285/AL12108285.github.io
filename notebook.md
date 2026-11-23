@@ -63,6 +63,16 @@
    They tell the computer to something without reporting a value
 </details>
 
+<details>
+  <summary>Expressions</summary>
+   An expression is a either a constant value (such as "4" or "winter") or a call to a reporter block including its inputs (such as
+  <img width="725" height="39" alt="Screenshot 2026-09-16 5 56 59 PM" src="https://github.com/user-attachments/assets/ffb967bf-05d4-4de2-9a0d-b03368f46c92" />
+</details>
+
+<details>
+  <summary>Values</summary>
+   Expressions are evaluated to produce a single value (a value can be a number, a string, a sprite, a costume, a script, a list—anything). For example, <img width="209" height="32" alt="Screenshot 2026-09-16 5 58 46 PM" src="https://github.com/user-attachments/assets/c0aa842a-be30-4dec-b652-3425ce1d73a5" /> will be evaluated to 17.
+</details>
 
 
 
@@ -79,11 +89,7 @@
      Using a procedure to name an idea, ex. the procedure "who" to the idea of picking an item from the list of people or cats.  
 </details>
 
-<details>
-  <summary>Expression</summary>
-  An expression is a either a constant value (such as "4" or "winter") or a call to a reporter block including it's inputs.
-  <img width="1582" height="148" alt="image" src="https://github.com/user-attachments/assets/90240d6e-27f4-4ec7-8b9d-53036f52ad64" />
-</details>
+
 
 <details>
   <summary>Micro-Computer</summary>
@@ -159,18 +165,6 @@
 
 
 
-
-
-<details>
-  <summary>Expressions</summary>
-   An expression is a either a constant value (such as "4" or "winter") or a call to a reporter block including its inputs (such as
-  <img width="725" height="39" alt="Screenshot 2026-09-16 5 56 59 PM" src="https://github.com/user-attachments/assets/ffb967bf-05d4-4de2-9a0d-b03368f46c92" />
-</details>
-
-<details>
-  <summary>Values</summary>
-   Expressions are evaluated to produce a single value (a value can be a number, a string, a sprite, a costume, a script, a list—anything). For example, <img width="209" height="32" alt="Screenshot 2026-09-16 5 58 46 PM" src="https://github.com/user-attachments/assets/c0aa842a-be30-4dec-b652-3425ce1d73a5" /> will be evaluated to 17.
-</details>
 
 <details>
   <summary>Pseudecode</summary>
