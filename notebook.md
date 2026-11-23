@@ -76,7 +76,7 @@
 
 <details>
   <summary>Commands</summary>
-   They tell the computer to something without reporting a value
+   They tell the computer to do something without reporting a value
 </details>
 
 <details>
@@ -121,6 +121,51 @@
 
 ## Unit 2 
 ### Lab 1: Games
+
+<details>
+  <summary>Variable</summary>
+     A named value that can change while a program runs.
+     - Ex. <img width="82" height="22" alt="Screenshot 2026-09-12 3 19 25 PM" src="https://github.com/user-attachments/assets/7df96539-0899-4dc9-bff2-ab8627d17b0a" />
+</details>
+
+<details>
+  <summary>Local Variable</summary>
+   A local variable can be set or used only in the environment in which it is defined. This term includes inputs to procedures and variables created by the 'for' or 'script' variables block.
+</details>
+
+<details>
+  <summary>Predicate</summary>
+     A predicate is a hexagon-shaped reporter that asks a true/false question such as these examples:<img width="601" height="62" alt="64270496-6c136643fc3cee290ea5e134ca5b473f" src="https://github.com/user-attachments/assets/3ba6e824-753a-47e6-a6ca-143f338a9723" />
+  Predicates report a Bolean value. Either <img width="245" height="36" alt="64270528-1ec547dc30faf7d771652fea8d1721dd" src="https://github.com/user-attachments/assets/ea212d21-2166-4a2f-8aa4-607d5d61d06c" />
+</details>
+
+<details>
+  <summary>Boolean Value</summary>
+     Reported by a predicate (either true or false)
+</details>
+
+<details>
+  <summary>Condition</summary>
+     An expression that evaluates to either true or false
+     - Ex. <img width="39" height="22" alt="Screenshot 2026-09-12 3 24 31 PM" src="https://github.com/user-attachments/assets/42cd8fab-8b84-4c2d-9ec8-c1417239cf3a" />
+</details>
+
+<details>
+  <summary>Global Variable</summary>
+   a variable that is usable by all scripts in the program.
+</details>
+
+<details>
+  <summary>Initialing</summary>
+   Setting the starting value of a variable
+</details>
+
+<details>
+  <summary>Index</summary>
+   The position number is called the index of the item in the list.
+</details>
+
+### Lab 2R: Making Lists
 
 
 
@@ -194,26 +239,6 @@
 <details>
   <summary>Argument</summary>
    An argument (or actual argument) is the input value, such as 6 for a hexagonal pinwheel. The input value is given each time the block is run; it can be a different value each time. Ex. <img width="342" height="47" alt="Screenshot 2026-09-16 6 03 23 PM" src="https://github.com/user-attachments/assets/1ce35341-bf16-4229-9903-b25e33d73993" />
-</details>
-
-<details>
-  <summary>Local Variable</summary>
-   A local variable can be set or used only in the environment in which it is defined. This term includes inputs to procedures and variables created by the 'for' or 'script' variables block.
-</details>
-
-<details>
-  <summary>Global Variable (Unit 2 Lab 1: Games)</summary>
-   a variable that is usable by all scripts in the program.
-</details>
-
-<details>
-  <summary>Initialing (Unit 2 Lab 1: Games)</summary>
-   Setting the starting value of a variable
-</details>
-
-<details>
-  <summary>Index</summary>
-   The position number is called the index of the item in the list.
 </details>
 
 <details>
