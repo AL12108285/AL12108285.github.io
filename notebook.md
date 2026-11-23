@@ -197,6 +197,56 @@
     A table is a two-dimensional data structure with rows and columns. If you've used a spreadsheet program, what it displays is a table. In Snap!, a table is implemented as a list of lists, in which each sublist is one row of the table.
 </details>
 
+<details>
+  <summary> Consumption</summary>
+    Using the result from 'item' as the input to 'date' or 'time' is called consumption of functions.
+</details>
+
+<details>
+  <summary> Traversing</summary>
+    Traversing a list means looking at each item of the list. 'For each' is iterative. That is, it’s repetitive, like for, which can also traverse a list. But unlike 'for', 'for each' traverses the list without using index numbers.
+</details>
+
+### Lab 3: Making Decisions
+
+<details>
+  <summary> Input Type </summary>
+    (often called domain by programmers) of a function is the type of data that it accepts as input.
+</details>
+
+<details>
+  <summary> Output Type </summary>
+    (often called range) of a function is the type of data that it reports as output.
+</details>
+
+<details>
+  <summary>Sequencing</summary>
+     Statements execute in the order they appear unless the flow of control changes.
+     - Ex. <img width="286" height="25" alt="image" src="https://github.com/user-attachments/assets/c7070281-da03-4cb6-820a-f8040e5c0274" />
+</details>
+
+<details>
+  <summary>Selection</summary>
+     Uses a condition to determine which part of an algorithm is executed.
+     - Ex. <img width="72" height="20" alt="image" src="https://github.com/user-attachments/assets/e778f9fb-fbf2-4431-9361-bf06b5408e32" />
+</details>
+
+<details>
+  <summary>Iteration</summary>
+     Repeating a set of instructions in an algorithm.
+     - Ex. <img width="107" height="22" alt="Screenshot 2026-09-12 3 17 17 PM" src="https://github.com/user-attachments/assets/52158b98-afc4-4c06-8f07-a0f13819d05e" />
+</details>
+
+<details>
+  <summary>Nested Conditional Statement</summary>
+     is an if or if else statement inside another if else statement.
+</details>
+
+<details>
+  <summary>String</summary>
+     An ordered sequence of characters
+</details>
+
 
 
 
@@ -220,8 +270,6 @@
      Using a procedure to name an idea, ex. the procedure "who" to the idea of picking an item from the list of people or cats.  
 </details>
 
-
-
 <details>
   <summary>Micro-Computer</summary>
      Is a small but powerful computer system
@@ -242,21 +290,10 @@
      is the term used to describe the information used and stored in a computer. It comprises information stored using digital information (0’s and 1’s).
 </details>
 
-
-
-
-
-
-
 <details>
   <summary>Substrings</summary>
    A substring is just a piece of some existing string. For example, "Hanna," "anna", and "nnah" are each substrings of the string "Hannah." (The empty string as well as the original string are both also substrings.)
 </details>
-
-
-
-
-
 
 <details>
   <summary>Pseudecode</summary>
@@ -273,20 +310,6 @@
    An argument (or actual argument) is the input value, such as 6 for a hexagonal pinwheel. The input value is given each time the block is run; it can be a different value each time. Ex. <img width="342" height="47" alt="Screenshot 2026-09-16 6 03 23 PM" src="https://github.com/user-attachments/assets/1ce35341-bf16-4229-9903-b25e33d73993" />
 </details>
 
-<details>
-  <summary> Input Type </summary>
-    (often called domain by programmers) of a function is the type of data that it accepts as input.
-</details>
-
-<details>
-  <summary> Output Type </summary>
-    (often called range) of a function is the type of data that it reports as output.
-</details>
-
-<details>
-  <summary>Nested Conditional Statement (Unit 2 Lab 3: Making Decisions)</summary>
-     is an if or if else statement inside another if else statement.
-</details>
 
 
 
@@ -353,19 +376,19 @@
 </details>
 
 <details>
-  <summary>Sequencing</summary>
+  <summary>Sequencing (Unit 2 Lab 3: Making Decisions) </summary>
      Statements execute in the order they appear unless the flow of control changes.
      - Ex. <img width="286" height="25" alt="image" src="https://github.com/user-attachments/assets/c7070281-da03-4cb6-820a-f8040e5c0274" />
 </details>
 
 <details>
-  <summary>Selection</summary>
+  <summary>Selection (Unit 2 Lab 3: Making Decisions) </summary>
      Uses a condition to determine which part of an algorithm is executed.
      - Ex. <img width="72" height="20" alt="image" src="https://github.com/user-attachments/assets/e778f9fb-fbf2-4431-9361-bf06b5408e32" />
 </details>
 
 <details>
-  <summary>Iteration</summary>
+  <summary>Iteration (Unit 2 Lab 3: Making Decisions) </summary>
      Repeating a set of instructions in an algorithm.
      - Ex. <img width="107" height="22" alt="Screenshot 2026-09-12 3 17 17 PM" src="https://github.com/user-attachments/assets/52158b98-afc4-4c06-8f07-a0f13819d05e" />
 </details>
