@@ -74,6 +74,42 @@
    Expressions are evaluated to produce a single value (a value can be a number, a string, a sprite, a costume, a script, a list—anything). For example, <img width="209" height="32" alt="Screenshot 2026-09-16 5 58 46 PM" src="https://github.com/user-attachments/assets/c0aa842a-be30-4dec-b652-3425ce1d73a5" /> will be evaluated to 17.
 </details>
 
+### Unit 1 Lab 4: Protecting Your Privacy
+
+<details>
+  <summary>Personally Identifiable Imformation</summary>
+    It includes details that could reveal who you are—such as your Social Security number, age, race, phone number(s), medical information, financial information, or biometric data like a thumbprint or face scan.
+</details>
+
+### Unit 1 Lab 5R: EMS Station Activity
+
+<details>
+  <summary>Sound Sensor</summary>
+     a sensor that outputs an analog signal based on the amount of ambient sound present. It is programmed using a value between 0 and 100, where 0 is the softest sound that can be detected and 100 is the loudest.
+</details>
+
+<details>
+  <summary>Position Servo</summary>
+     a motor will turn to a specific angle from 0 to 270 degrees.
+</details>
+
+<details>
+  <summary>Rotation Servo</summary>
+     a motor that will rotate continuously until turned off. Servo motors are very precise motors.
+</details>
+
+<details>
+  <summary>Light Sensor</summary>
+     a sensor that detects ambient light. Light Sensors can be either digital or analog. The Light Sensor in your ITEEA ExCITE Robotics System is Digital and will report a value of 1 or 0 (on or off).
+</details>
+
+Unit 2 Lab 1: Games
+
+
+
+
+
+
 
 
 
@@ -110,34 +146,6 @@
   <summary>Data</summary>
      is the term used to describe the information used and stored in a computer. It comprises information stored using digital information (0’s and 1’s).
 </details>
-
-<details>
-  <summary>Personally Identifiable Imformation</summary>
-    It includes details that could reveal who you are—such as your Social Security number, age, race, phone number(s), medical information, financial information, or biometric data like a thumbprint or face scan.
-</details>
-
-<details>
-  <summary>Sound Sensor</summary>
-     a sensor that outputs an analog signal based on the amount of ambient sound present. It is programmed using a value between 0 and 100, where 0 is the softest sound that can be detected and 100 is the loudest.
-</details>
-
-<details>
-  <summary>Position Servo</summary>
-     a motor will turn to a specific angle from 0 to 270 degrees.
-</details>
-
-<details>
-  <summary>Rotation Servo</summary>
-     a motor that will rotate continuously until turned off. Servo motors are very precise motors.
-</details>
-
-<details>
-  <summary>Light Sensor</summary>
-     a sensor that detects ambient light. Light Sensors can be either digital or analog. The Light Sensor in your ITEEA ExCITE Robotics System is Digital and will report a value of 1 or 0 (on or off).
-</details>
-
-
-
 
 <details>
   <summary>Sprites</summary>
