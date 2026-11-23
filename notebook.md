@@ -1,6 +1,7 @@
 # Angie's Notebook
 ## Table of Contents
 - [Vocab](#vocab)
+  - [Unit 1](#unit-1)
 - [AP CSP Vocabulary](#ap-csp-vocabulary)
 - [Important Blocks](#important-blocks)
 - [On the AP Exam](#on-the-ap-exam)
@@ -17,6 +18,8 @@
   - [Text Formatting](#text-formatting)
 
 ## Vocab
+
+### Unit 1
 
 ### Unit 1 Lab 1: Click Alonzo Game
 
