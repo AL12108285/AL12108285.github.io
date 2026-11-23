@@ -2,6 +2,7 @@
 ## Table of Contents
 - [Vocab](#vocab)
   - [Unit 1](#unit-1)
+  - [Unit 2](#unit-2)
 - [AP CSP Vocabulary](#ap-csp-vocabulary)
 - [Important Blocks](#important-blocks)
 - [On the AP Exam](#on-the-ap-exam)
@@ -19,9 +20,9 @@
 
 ## Vocab
 
-### Unit 1
+## Unit 1
 
-### Unit 1 Lab 1: Click Alonzo Game
+### Lab 1: Click Alonzo Game
 
 <details>
   <summary>Sprites</summary>
@@ -39,7 +40,7 @@
    is how much you can see what's behind it. For example, here is the Alonzo sprite shown with three different transparencies (which have been set using the ghost effect block). 
 </details>
 
-### Unit 1 Lab 2: Gossip
+### Lab 2: Gossip
 
 <details>
   <summary>Lists</summary>
@@ -89,14 +90,14 @@
    Expressions are evaluated to produce a single value (a value can be a number, a string, a sprite, a costume, a script, a list—anything). For example, <img width="209" height="32" alt="Screenshot 2026-09-16 5 58 46 PM" src="https://github.com/user-attachments/assets/c0aa842a-be30-4dec-b652-3425ce1d73a5" /> will be evaluated to 17.
 </details>
 
-### Unit 1 Lab 4: Protecting Your Privacy
+### Lab 4: Protecting Your Privacy
 
 <details>
   <summary>Personally Identifiable Imformation</summary>
     It includes details that could reveal who you are—such as your Social Security number, age, race, phone number(s), medical information, financial information, or biometric data like a thumbprint or face scan.
 </details>
 
-### Unit 1 Lab 5R: EMS Station Activity
+### Lab 5R: EMS Station Activity
 
 <details>
   <summary>Sound Sensor</summary>
@@ -118,7 +119,8 @@
      a sensor that detects ambient light. Light Sensors can be either digital or analog. The Light Sensor in your ITEEA ExCITE Robotics System is Digital and will report a value of 1 or 0 (on or off).
 </details>
 
-### Unit 2 Lab 1: Games
+## Unit 2 
+### Lab 1: Games
 
 
 
