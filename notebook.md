@@ -17,6 +17,18 @@
   - [Text Formatting](#text-formatting)
 
 ## Vocab
+
+### Unit 1 Lab 1: Click Alonzo Game
+<details>
+  <summary>Transparency</summary>
+   is how much you can see what's behind it. For example, here is the Alonzo sprite shown with three different transparencies (which have been set using the ghost effect block). 
+</details>
+
+### Unit 1 Lab 2: Gossip
+
+
+
+
 <details>
   <summary>Abstraction</summary>
     The most fundamental idea in computer science, giving a name to something in a program to make it more readable.
@@ -92,10 +104,7 @@
   <img width="478" height="233" alt="image" src="https://github.com/user-attachments/assets/d27f3f47-31be-4ced-8db8-d8af7a05d086" />
 </details>
 
-<details>
-  <summary>Transparency</summary>
-   is how much you can see what's behind it. For example, here is the Alonzo sprite shown with three different transparencies (which have been set using the ghost effect block). 
-</details>
+
 
 <details>
   <summary>Lists</summary>
