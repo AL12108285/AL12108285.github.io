@@ -115,7 +115,8 @@
      a sensor that detects ambient light. Light Sensors can be either digital or analog. The Light Sensor in your ITEEA ExCITE Robotics System is Digital and will report a value of 1 or 0 (on or off).
 </details>
 
-Unit 2 Lab 1: Games
+### Unit 2 Lab 1: Games
+
 
 
 
