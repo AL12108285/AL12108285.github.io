@@ -43,6 +43,18 @@
  block lets you concatenate strings.
 </details>
 
+<details>
+  <summary>Debugging</summary>
+   The process of testing, finding problems, and fixing them is called debugging.
+</details>
+
+<details>
+  <summary>Procedures</summary>
+   A procedure is a named sequence of instructions that may take inputs and may report a value. Some languages call procedures methods or functions.
+</details>
+
+
+
 
 
 
@@ -134,15 +146,9 @@
 
 
 
-<details>
-  <summary>Debugging</summary>
-   The process of testing, finding problems, and fixing them is called debugging.
-</details>
 
-<details>
-  <summary>Procedures</summary>
-   A procedure is a named sequence of instructions that may take inputs and may report a value. Some languages call procedures methods or functions.
-</details>
+
+
 
 <details>
   <summary>Expressions</summary>
