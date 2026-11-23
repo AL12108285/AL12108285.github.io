@@ -53,6 +53,17 @@
    A procedure is a named sequence of instructions that may take inputs and may report a value. Some languages call procedures methods or functions.
 </details>
 
+<details>
+  <summary>Reporters</summary>
+   report a value.
+</details>
+
+<details>
+  <summary>Commands</summary>
+   They tell the computer to something without reporting a value
+</details>
+
+
 
 
 
