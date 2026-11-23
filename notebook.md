@@ -167,7 +167,10 @@
 
 ### Lab 2R: Making Lists
 
-
+<details>
+  <summary>Element</summary>
+    is another name for an item in a list. (If the same value is in the list twice, that counts as two different elements.) Each element has a unique index (position) in the list.
+</details>
 
 
 
@@ -239,11 +242,6 @@
 <details>
   <summary>Argument</summary>
    An argument (or actual argument) is the input value, such as 6 for a hexagonal pinwheel. The input value is given each time the block is run; it can be a different value each time. Ex. <img width="342" height="47" alt="Screenshot 2026-09-16 6 03 23 PM" src="https://github.com/user-attachments/assets/1ce35341-bf16-4229-9903-b25e33d73993" />
-</details>
-
-<details>
-  <summary>Element</summary>
-    is another name for an item in a list. (If the same value is in the list twice, that counts as two different elements.) Each element has a unique index (position) in the list.
 </details>
 
 <details>
